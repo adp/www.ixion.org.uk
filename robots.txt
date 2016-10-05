@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /contacts/
+Disallow: /cgi-bin/
+Disallow: /Icons/
+Disallow: /images/
+Disallow: /digests/
+Disallow: /mailman/
+Disallow: /webalizer/
+Disallow: /pix/
+Disallow: /albums/
+
+User-agent: ixidig
+Disallow: /contacts/
+Disallow: /Icons/
+Disallow: /images/
+Disallow: /mailman/
+Disallow: /webalizer/
+Disallow: /pix/
+Disallow: /albums/

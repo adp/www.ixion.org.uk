@@ -1,0 +1,165 @@
+Subject: [IxiRallyOrg] Ixion Rally 2003: Open! (for questions) (long)
+From: Adam Curtin
+To: "Ixion"
+Date: Mon, 27 Jan 2003 12:57:56 +0000
+
+[Later edited by Adam to correct the typos and contradictions :-) ]
+
+You may remember, in the dim and distant past, there was suggestion of an 
+Ixion Rally this year (born of an ObCar discussion between Mand & ObBroken 
+Richiemouse).
+
+Now, after weeks of discussion, hours of software engineering[1] and 
+minutes of testing, the Ixion Rally 2003 Software Infrastructure Thing is 
+ready for you to pose your questions.
+
+The rally is open for the submission of questions now, and will be open for 
+answers between 1st March and 1st October - hopefully this means that 
+February will provide a good choice of questions ready for eager question 
+answerers.
+
+All entrants have gotta submit an easy question (and may ask up to 2 easy & 
+1 hard one). The onerous obligations of question askers are (a) to mark 
+other bods' answers to their questions, and (b) to try to meet folk 
+passin' by. Hopefully they'll choose interesting questions, or at least 
+questions which require riding along good roads :-)
+
+Object Of The Game
+------------------
+
+To ride bikes, have fun, meet ixies and not FC.
+
+Questions
+---------
+
+The idea is that all participants submit questions 'near' them, where 
+'near' is (in their judgement) within about 10 minutes ride of their 
+preferred iximeeting place (home, pub, den of iniquity).
+
+Questions _might_ need some words in the answer, but they should definitely 
+be answerable with a photo of self/bike in some distinctive pose[2] for 
+public ridicule. Folk will be able to enjoy other folks answers (to 
+questions they've already answered) during the event, and of course 
+everyone can see all the photos when it's all over.
+
+Clearly this assumes that rallyists will have access to digital cameras, 
+scanners, or a combination of film camera, stamp, envelope, and the 
+address of the ixiscanningbureau. This may seem elitist, but we do also 
+assume that rallyists will have access to computers, internet connections 
+and motorbikes[3], so it's already a rich man's sport.
+
+There are but two types of questions:
+
+  * "easy" (5 pts):
+     A question to check that the answerer has been to a place, rather
+     than that they're really really clever and prepared to ride off-road
+     for 10 miles and then climb a mountain to consult the oracle. It
+     should be easily accessible from the public road - ideally they
+     should be able to include their bike in the photo[4].
+
+  * "hard" (8 pts):
+    This kind of question can be a bit harder and require a little more 
+    adventure - if it requires off-road riding or any significant (to an
+    ixi) amount of walking, or if it's dodgy in wet/cold/dark, make sure
+    you note that in the question.
+
+When submitting a question, you need to provide the streetmap/multimap URL 
+roughly centered on the answer zone. You should also provide a "model 
+answer" and ideally a "model photo" with what you'd hope to be submitted 
+by answerers.
+
+
+
+Points
+------
+
+You might be surprised, given its crapness, that the point-scoring scheme 
+took a lot of discussion and was hard to agree on ... it's still not cast 
+in stone, though hopefully the event is more about fun than about 
+vanquishing other ixis, so the points stuff is mainly (IMHO) for interest 
+anyway.
+
+There are three kinds of points for answering a question, awarded thusly:
+
+  * the answerer's points comprise wot you get for attempting it at all,
+    and a few more if by some fluke/bribery/threats your answer is marked
+    as correct:
+
+    * for attempting it at all:
+      number_of_ixies_met
+      + 0.01 * miles_ridden * bike_size_weighting
+
+      ... where bike_size_weighting is:
+        3    for <= 50cc;
+        1.25 for <= 250cc;
+        0.75 for >  250cc
+
+      IMHO ixicouples count as 2, though then of course if such a couple
+      do clues together they score at least 1 ixies_met point ... and if a
+      group go out doing clues, they get the whole group's worth. But I
+      spose that encourages groups of ixies to ride around[5], so that's
+      no bad thing[6].
+
+      The "miles_ridden" is just the amount of ridden while answering this
+      question(if it was a 10 mile journey on its own, count 10; If it was
+      a 1 mile detour on a 10 mile journey, count 1; If you answered 3
+      questions in a 10 mile journey, the 3 mileage answers should total
+      10).
+
+      (As an example for ixies_met, if you go out in a group of 5 to do 3
+      questions, and stop at an ixicouple's house for a cuppa on the way,
+      count 4 (the others in your group of 5) for *each* of the questions,
+      and put the 2 for the ixicouple against any *one* of the questions)
+
+      At the moment, the scores are rounded to the nearest int for each
+      question, but we might change that at some point :-)
+
+      I don't think there's any need to be strict, wot with it being all 
+      for fun and none of us likely to cheat each other, so this is more
+      about giving a clue wot's meant rather than laying down the law.
+
+    * extra points for getting it right:
+      easy question: 5
+      hard question: 8
+
+  * the asker's points for asking the question:
+    0.2 * answerer_points
+
+
+
+Without further ado
+-------------------
+
+Surf on over to:
+
+  http://eider.quacky.co.uk/ixion/
+
+You'll need to register just like wot you do/did with the trackday booking 
+stuff. The email address you provide will be used for confirming 
+registration, nagging you about unmarked answers to your questions. The 
+address (and any phone numbers you provide) *will be shown to other 
+rallyists* for them to use if they're planning to answer your questions 
+and want to arrange to meet.
+
+Any questions/suggestions, let the rally organiser cabal (Mand, 
+Richiemouse, AndyC, Han, Mik Reed, Robin & me) know on 
+rallyorg@ixion.org.uk. Any probs etc with the software, pls send to 
+eider-admin@quacky.co.uk
+
+[1] There's still some clicky-map stuff to do, so you can click where
+you want to be and it'll show you the nearest unanswered questions.
+
+[2] Another thing on the todo list is to arrange some RateMyRallyPhoto.com 
+scheme, with extra points and/or pointless prizes for the most artistic / 
+distasteful / pr0nographic photos
+
+[3] sorry Ben, it's motorbikes only.
+
+[4] This probly means that Inner Cities should be avoided, cos your bike 
+will be stolen as you walk across the road (then you'll be mugged and your 
+camera nicked)
+
+[5] No, not including Cadwell, Hardraw etc. ... you're so funny ;->
+
+[6] although Adny wouldn't agree
+

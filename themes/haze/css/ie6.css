@@ -1,0 +1,18 @@
+/**
+ SilverStripe Haze Theme
+ Implemented by Rafal Hirsz (hirsz.mundusnovis.info)
+
+ IE6 Hacks Stylesheet.
+*/
+
+/* IE doesn't like my menus */
+#Navigation,
+#Sidebar .menu li a,
+#Layout {
+	height: 1%;
+}
+#Navigation ul li { display: inline; }
+#Navigation ul li a { float: left; }
+
+/* Because of the infamous CSS2 support in IE */
+* html #Wrapper #Subcontent { margin-right: 192px; }

@@ -1,0 +1,191 @@
+/**
+  SilverStripe Haze Theme
+  Implemented by Rafal Hirsz (hirsz.mundusnovis.info)
+
+  This typography file is included in the WYSIWYG editor
+ */
+
+/* GENERIC STYLES */
+.typography * {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+}
+
+/* PARAGRAPHS */
+.typography p {
+ 	line-height: 1.5em;
+}
+.typography #Subcontent p {
+	padding: 0 8px 16px;
+/*	background: #fff url(../images/text.gif) repeat-x bottom;*/
+        background: #fff;
+
+}
+
+/* LINKS */
+.typography a:link { color: #6060f0; }
+.typography a:visited { color: #a0a0f0; }
+.typography a:hover { color: #2020f0; }
+
+/* ICONS */
+.typography a[href$=".pdf"],
+.typography a[href$=".PDF"],
+.typography a.pdf {
+	padding: 2px;
+	padding-left: 20px;
+	background: url(../images/icons/page_white_acrobat.png) no-repeat left center;
+}
+.typography a[href$=".doc"],
+.typography a[href$=".DOC"],
+.typography a.doc {
+	padding: 2px;
+	padding-left: 20px;
+	background: url(../images/icons/page_word.png) no-repeat left center;
+}
+.typography a[href$=".xls"],
+.typography a[href$=".XLS"],
+.typography a.xls {
+	padding: 2px;
+	padding-left: 20px;
+	background: url(../images/icons/page_excel.png) no-repeat left center;
+}
+.typography a[href$=".gz"],
+.typography a[href$=".GZ"],
+.typography a[href$=".gzip"],
+.typography a[href$=".GZIP"],
+.typography a[href$=".zip"],
+.typography a[href$=".ZIP"],
+.typography a.archive {
+	padding: 2px;
+	padding-left: 20px;
+	background: url(../images/icons/page_white_zip.png) no-repeat left center;
+}
+.typography a[href$=".exe"],
+.typography a[href$=".EXE"],
+.typography a.application {
+	padding: 2px;
+	padding-left: 20px;
+	background: url(../images/icons/application.png) no-repeat left center;
+}
+
+/* LIST STYLES */
+
+
+/* HEADER STYLES */
+
+.typography h1,
+.typography h2,
+.typography h3 {
+/*	color: #70b9f1;*/
+	color: #444;
+	margin: 25px 0 5px;
+	clear: both;
+	font-weight: bold;
+}
+.typography h1 {
+	font-size: 2.2em;
+}
+.typography h2 {
+ 	font-size: 1.8em;
+}
+.typography h2 a:link,
+.typography h2 a:hover,
+.typography h2 a:visited {
+	color: #70b9f1;
+	text-decoration: none;
+}
+.typography h2 a:hover {
+	text-decoration: underline;
+}
+
+.typography h3 {
+	font-size: 1.6em;
+}
+
+.typography h4 {
+	color: #70b9f1;
+	font-size: 1.4em;
+	margin: 1em 0 0.5em;
+}
+
+/* ADRESS STYLES */
+.typography pre {
+	font-family:"Courier New",Courier;
+	display:block;
+	font-size:1.2em;
+	padding:0.5em;
+	border:1px #ccc solid;
+	background:#eee;
+}
+.typography label {
+	margin: 8px 0 -8px;
+	color: #777;
+}
+
+.typography q {
+	display:block;
+	font-size:0.8em;
+	margin:1em 1em;
+	padding:0.5em;
+	border:1px #ccc solid;
+}
+
+/* TABLE STYLING */
+.typography table {
+	color: #666;
+	border-collapse:collapse;
+}
+	.typography td {
+		padding:5px;
+	}
+
+/* WYSIWYG EDITOR ALIGNMENT CLASSES */
+.typography .left {
+	text-align:left;
+}
+.typography .center {
+	text-align:center;
+}
+.typography .right {
+	text-align:right;
+}
+.typography img.right {
+	float:right;
+	margin-left:20px;
+}
+.typography img.left {
+	float:left;
+}
+.typography img.leftAlone {
+	float:left;
+	margin-right:100%;
+}
+.typography img.center {
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+/* FORMS */
+.typography label {
+	font-size: 0.8em;
+}
+.typography input.text, .typography textarea {
+	font-size: 0.8em;
+}
+/* Extra redundancy */
+.typography p.MsoNormal, .typography p.MsoBodyText {
+	margin: 0;
+}
+
+.typography #Subcontent p.authorDate {
+	color: #444;
+	margin-top: -15px;
+	}
+/* added AP 28-03-2011 */
+hr {
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+

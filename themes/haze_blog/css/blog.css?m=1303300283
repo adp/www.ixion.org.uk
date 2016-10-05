@@ -1,0 +1,168 @@
+#BlogContent {
+	float: right;
+	width: 80%;
+}
+
+.blogEntry,
+.blogSummary,
+#PageComments_holder,
+#BlogEntry_Form_BlogEntryForm,
+#BlogContent p {
+	margin-right: 192px;
+}
+
+.tagcloud a:link,
+.tagcloud a:visited {
+	text-decoration: none;
+	color: #9a9a9a;
+}
+.tagcloud a:hover {
+	color: #777;
+	text-decoration: underline;
+}
+
+.BlogError {
+	text-align: center;
+}
+/* IE cuts the bottom of the tags off */
+* html #Sidebar p.tagcloud {
+	padding-bottom: 10px;
+}
+.BlogError p {
+	color: #fff;
+	display: inline;
+	background-color: #f77;
+	padding: 7px;
+	font-weight:bold;
+}
+
+#BlogEntry_Form_BlogEntryForm #SubcontentLabel{
+	display:inline;
+}
+
+#BlogEntry_Form_BlogEntryForm .CompositeField {
+	position: relative;
+	width: 100%;
+}
+
+#BlogEntry_Form_BlogEntryForm #BBCodeHint {
+	cursor: pointer;
+	font-size:0.8em;
+	position: absolute;
+	left: 240px;
+	top: 3px;
+}
+#BlogEntry_Form_BlogEntryForm #BBTagsHolder{
+	display: block;
+	position: absolute;
+	top: 30px;
+	left: 325px;
+}
+.blogSummary, .blogEntry {
+	background: #fff url(../../haze/images/text.gif) repeat-x bottom;
+	padding: 0 8px 8px;
+}
+#BlogContent div p {
+	text-align: left;
+	margin: 0;
+}
+
+#Subcontent label{
+	margin-top: 0px;
+}
+#LayoutContainer p.authorDate,
+#LayoutContainer p.tags {
+	font-size: 0.9em;
+	color: #777;
+}
+#LayoutContainer p.tags {
+	margin-bottom: 12px;
+}
+p.blogVitals {
+	text-align: right;
+	margin: 0;
+	color: #999;
+	padding-top: 12px;
+}
+.blogVitals a {
+	text-decoration: none;
+}
+a.comments {
+	background: url(../images/comments.gif) no-repeat left center;
+	padding: 3px 0 3px 25px;
+}
+a.readmore {
+	background: url(../images/readmore.gif) no-repeat left center;
+	padding: 3px 0 3px 25px;
+}
+
+/**
+ * Comments
+ */
+#CommentHolder #PageComments {
+	list-style:none;
+}
+#PageComments li {
+	background: #fff url(../../haze/images/avatar.jpg) no-repeat top left;
+	padding-left: 66px;
+	margin-bottom: 12px;
+	clear: both;
+}
+#PageComments li .comment {
+	background: #fee6f9 url(../../haze/images/comment.png) no-repeat top left;
+	padding: 5px 10px 15px;
+	color: #848484;
+}
+#PageComments li .info {
+	background: url(../../haze/images/comment.png) no-repeat bottom left;
+}
+#PageComments li .info span {
+	background: url(../../haze/images/comment.png) no-repeat bottom right;
+	display: block;
+	color: #848484;
+	margin-left: 10px;
+	padding-bottom: 5px;
+	font-size: 0.8em;
+	font-style: italic;
+}
+#PageComments li .info br { display: none; }
+
+#PageComments .actionLinks {
+	list-style: none;
+	display: block;
+	background: #fff;
+	margin-left: 15px;
+}
+#PageComments .actionLinks li {
+	background: #fee6f9 url(../../haze/images/commenttab.png) no-repeat bottom left;
+	padding: 0 0 2px;
+	margin: 0 5px 12px 0;
+	clear: none;
+	display: block;
+	width: 125px;
+	text-align: center;
+	float: left;
+}
+#PageComments .actionLinks li a:link,
+#PageComments .actionLinks li a:visited,
+#PageComments .actionLinks li a:hover {
+	color: #848484;
+	text-decoration: none;
+}
+#PageComments .actionLinks li a:hover { color: #484848; }
+#CommentsRSSFeed { clear: both; }
+
+#BlogContent p {
+	text-align: right;
+	margin-top: 2px;
+}
+
+a#editpost{
+	background: url(../images/edit.gif) no-repeat left center;
+	padding: 3px 0 3px 20px;
+}
+
+a#unpublishpost{
+	background: url(../images/delete.gif) no-repeat left center;
+	padding: 3px 0 3px 20px;
+}

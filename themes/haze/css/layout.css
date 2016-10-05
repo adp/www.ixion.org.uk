@@ -1,0 +1,165 @@
+/*
+ SilverStripe Haze Theme
+ Implemented by Rafał Hirsz (hirsz.mundusnovis.info)
+ */
+
+/**
+  * Misc and defaults
+  */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+html { background: #fff url(../images/bg.gif) repeat-x; }
+body {
+	font-size: 80%;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+/*	color: #ababab;*/
+	color: #444;
+	padding-top: 160px;
+}
+ul.tabstrip li.current a, ul.tabstrip li.sel a, ul.tabstrip li.over a, ul.tabstrip li a { color: #808080 !important; }
+#Form_EditForm fieldset #OpenIDDescription p {
+	background: none;
+	padding: 0;
+	color: #777;
+}
+.clear { clear: both; }
+
+/**
+  * The container
+  */
+#Container {
+	margin: 0 150px;
+}
+
+/**
+  * The header
+  */
+#Header {
+	position: absolute;
+	top: 3em;
+}
+	#Header h1 {
+		font-size: 2.5em;
+		color: #9fa0a4;
+	}
+
+/**
+  * Navigation
+  */
+#Navigation {
+	position: absolute;
+	top: 105px;
+	z-index: 2;
+}
+	#Navigation ul {
+		list-style: none;
+	}
+		#Navigation ul li {
+			display: block;
+			line-height: 3;
+			float: left;
+		}
+			#Navigation ul li a {
+				display: block;
+				height: 3.26em;
+				padding: 0 10px;
+				font-size: 1.3em;
+				text-decoration: none;
+			}
+				#Navigation ul li a span {
+					text-align: center;
+					text-transform: uppercase;
+					font-weight: bold;
+					color: #fff;
+				}
+			#Navigation ul li :hover,
+			#Navigation ul li .current {
+				background: #fff url(../images/nav_selected.gif) repeat-x;
+			}
+				#Navigation ul li :hover span,
+				#Navigation ul li .current span {
+					background: none;
+					color: #c1bfbf;
+				}
+
+/**
+  * Breadcrumbs
+  */
+#Breadcrumbs {
+	color: #c0c0c0;
+}
+	#Breadcrumbs p,
+	#Breadcrumbs p a {
+		color: #c0c0c0;
+	}
+	#Breadcrumbs p :hover {
+		color: #909090;
+	}
+
+/**
+  * Main content
+  */
+#Wrapper {
+	float: left;
+	width: 100%;
+}
+#Sidebar + #Wrapper #Subcontent {
+	margin-left: 192px;
+}
+#Subcontent a img {
+	border: none;
+}
+
+/**
+  * Sidebars
+  */
+#Sidebar {
+	margin-right: -170px;
+	width: 170px;
+	float: left;
+	position: relative;
+}
+	#Sidebar ul {
+		font-size: 1.1em;
+		list-style: none;
+		line-height: 2;
+	}
+		#Sidebar ul li a {
+			background: #eee url(../images/menu_l1.png) no-repeat top;
+			color: #444;
+			text-decoration: none;
+			font-weight: bold;
+			display: block;
+			padding: 4px 8px;
+			font-size: 0.9em;
+			line-height: 1.5;
+		}
+		#Sidebar ul li a:hover,
+		#Sidebar ul li a.current {
+			background: #ddd url(../images/menu_l1h.png) no-repeat top;
+			color: #9a9a9a;
+		}
+	#Sidebar .menu .menu li a {
+		padding: 4px 17px;
+		font-size: 1em;
+	}
+
+/**
+  * The footer
+  */
+#Footer { padding-top: 15px; }
+	#Footer p {
+		font-size: 0.8em;
+		color: #c0c0c0;
+		text-align: center;
+	}
+		#Footer p a {
+			color: #c0c0c0;
+		}
+		#Footer p :visited,
+		#Footer p a:hover {
+			color: #909090;
+		}

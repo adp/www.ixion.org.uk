@@ -1,0 +1,52 @@
+/*
+  $Header: /data/quacky/www/www/ixion/public_html/Styles/RCS/Ixion.css,v 1.6 2004/03/25 11:31:30 ixion Exp $
+*/
+BODY {
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: Helvetica, sans-serif;
+  background-color: #dcdcc6;
+  background-image: url("/Icons/random.gif");
+}
+
+H1 {
+  text-align: center;
+}
+
+IMG {
+  border-style: none;
+}
+
+TR.odd { }
+TR.even { background: #eaead5; }
+TR.head { background: #f2f2dc; }
+TD,TH { vertical-align: top; }
+TH.right { text-align: right; }
+TD.center { text-align: center; }
+TD.right { text-align: right; }
+TD.left { text-align: left; }
+
+DIV.alert {
+  background-color: yellow;
+  padding: 10pt;
+}
+
+DIV.bad {
+  background-color: #888888;
+  padding: 10pt;
+}
+
+SPAN.important {
+  font-weight: bolder;
+  font-size: larger;
+}
+
+SPAN.aside {
+  font-style: italic;
+  font-size: smaller;
+}
+
+ADDRESS {
+  text-align: right
+}
+

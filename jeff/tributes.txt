@@ -1,0 +1,3642 @@
+- --------------------------------------------------------------
+  1 02/07 "Richard Moore"                                  
+  2 02/07 Veggie Dave                                      
+  3 02/07 "Ian Ellison"                                    
+  4 02/07 Robert Cameron                                   
+  5 02/07 "Derek Marshall"                                 
+  6 02/07 Gordon Brown                                     
+  7 02/07 Ben Lovejoy                                      
+  8 02/07 Mike Fleming                                     
+  9 03/07 Jonathon Green                                   
+ 10 03/07 Jonathon Green                                   
+ 11 03/07 "Ian Ellison"                                    
+ 12 03/07 Greg Gladwell                                    
+ 13 03/07 "Ian Ellison"                                    
+ 14 03/07 marvin                                           
+ 15 03/07 Ben Lovejoy                                      
+ 16 03/07 "Kevan Boitoult"                                 
+ 17 03/07 "Stuart Duckworth"                               
+ 18 03/07 "Richard Moore"                                  
+ 19 03/07 Buzz                                             
+ 20 03/07 "Clinton Gardiner"                               
+ 21 03/07 Richard Mitchell                                 
+ 22 03/07 "Coyne, Paul"                                    
+ 23 03/07 Andy Cannon                                      
+ 24 03/07 bill.2.parker@bt.com                             
+ 25 03/07 "Bowler, Colin [Amek UK]"                        
+ 26 03/07 "Steve Manley"                                   
+ 27 03/07 Nile Blue                     
+ 28 03/07 E Justin M Rowles                                
+ 29 03/07 E Justin M Rowles                                
+ 30 03/07 Han Dunsterville              
+ 31 03/07 eric the brave                                   
+ 32 03/07 Austin Shackles                                  
+ 33 03/07 Austin Shackles                                  
+ 34 03/07 Christopher Pollard                              
+ 35 03/07 "John W. List"                                   
+ 36 03/07 "Keane,Tony"                                     
+ 37 03/07 Adam Curtin at WatchMark                         
+ 38 03/07 Ian Ellison                                      
+ 39 03/07 "REED MICHAEL"                                   
+ 40 03/07 "REED MICHAEL"                                   
+ 41 03/07 flook                                            
+ 42 03/07 John Greystrong                                  
+ 43 03/07 Matt                                             
+ 44 03/07 Matt                                             
+ 45 03/07 Nick Reynolds                                    
+ 46 03/07 Ian Ellison                                      
+ 47 03/07 "neil.a.harvey"                                  
+ 48 03/07 Heaton JM                                        
+ 49 03/07 graham arnold                 
+ 50 03/07 Matt                                             
+ 51 03/07 Adam Curtin at WatchMark                         
+ 52 03/07 alice.thornley@uk.pwcglobal.com                  
+ 53 03/07 Matt                                             
+ 54 03/07 "Kevan Boitoult"                                 
+ 55 03/07 Moj                                              
+ 56 04/07 "Hone, Paul"                                     
+ 57 04/07 "Neil the Stealth Hippy"                         
+ 58 05/07 "BRC"                                            
+ 59 05/07 Paul Matthews                                    
+ 60 09/07 Andrew Poodle                                    
+ 61 02/07 Jeremy Sagar                                     
+ 62 03/07 Mark.Cuthbert@yorkshirewater.co.uk               
+ 63 03/07 "Robin Bennett"                                  
+ 64 02/07 mlh                                              
+ 65 02/07 "@"                                              
+ 66 03/07 mlh                                              
+ 67 03/07 Jason Hearn                                      
+ 68 03/07 WILLIS PAUL                                      
+ 69 03/07 Jason Hearn                                      
+ 70 03/07 Philip Pick                                      
+ 71 03/07 Ian Ellison                                      
+ 72 03/07 "Alan W. Frame"                                  
+ 73 03/07 E Justin M Rowles                                
+ 74 03/07 Henry 'Aaron' Cooke Smith                        
+ 75 03/07 Sheridan Coulter                                 
+ 76 03/07 Graham Carrick                                   
+ 77 03/07 "James Dening"                                   
+ 78 03/07 iain.lowe@bt.com                                 
+ 79 03/07 Robert Cameron                                   
+ 80 03/07 Robert Cameron                                   
+ 81 03/07 Ian Ellison                                      
+ 82 03/07 Adam Curtin at WatchMark                         
+ 83 03/07 Jason Hearn                                      
+ 84 03/07 "Stuart Duckworth"                               
+ 85 03/07 Mel Reed                                         
+ 86 03/07 Reed Kai                                         
+ 87 04/07 Waggers                         
+ 88 04/07 "Chettleburgh, John (J.)"                        
+ 89 09/07 "Jane Turner"                                    
+ 90 09/07 "BRC"                                            
+ 91 03/07 Paul McMonnies                                   
+ 92 04/07 paul.milton@philips.com                          
+ 93 04/07 Jeremy.Norris@vodafone.co.uk                     
+ 94 05/07 Matt                                             
+ 95 05/07 "Darren Patel"                                   
+ 96 10/07 Simon Crouch                                     
+ 97 10/07 Simon Crouch                                     
+ 98 03/07 "Simon Morris"                                   
+ 99 03/07 "Rankin, Gene"                                   
+100 03/07 Matt                                             
+101 03/07 "Mike Howe"                                      
+102 03/07 Steven Gregg                  
+103 03/07 Michael B                     
+104 03/07 Gary?                                            
+105 03/07 "David Lippett"                                  
+106 03/07 "Richard Seabert"                                
+107 03/07 Ged                                              
+108 03/07 Mel Reed                                         
+109 09/07 "Richard Moore"                                  
+110 09/07 "Birring, Steven G"                              
+111 09/07 Iain.Crombie@nokia.com                           
+112 09/07 Steve Bennett                                    
+113 31/07 "Flossie the Sheep"                              
+
+- ----------------------------------------------------------------------
+
+Date:    Mon, 02 Jul 2001 22:15:23 +0100
+From:    "Richard Moore" <richard@oscarthecat.freeserve.co.uk>
+Subject: The worst news - Jeff Wain
+
+I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+He died at 2 this afternoon. His blood pressure had fallen so low; they
+couldn't bring him back up again, he was fighting on too many fronts.
+
+He didn't re-gain consciousness properly after the accident: he was sedated
+and probably spent the entire time dreaming of riding in Norway.
+
+I'm sorry to every one of his friends who has had to find this out from the
+list: we tried to set a grapevine in motion but we don't have everyone's
+phone number, I'm sorry if we have your number but haven't rung you, I'm
+sorry to have to post this at all. He was my friend and he was yours too.
+
+Bugger :-(
+
+Richard :-(
+
+:-(
+
+
+
+
+
+
+
+- ------------------------------
+
+Date:    Mon, 02 Jul 2001 22:20:24 +0100
+From:    Veggie Dave <Veggie~Dave@bikehouse.demon.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+Jeff Wain - very possibly the nicest person I've ever known and someone
+I'll miss more than he'll ever know
+
+Jeff RIP mate
+
+- - -- 
+Veggie Dave
+
+
+
+- ------------------------------
+
+Date:    Mon, 02 Jul 2001 22:23:30 +0100
+From:    "Ian Ellison" <ian.ellison@ntlworld.com>
+Subject: Re: The worst news - Jeff Wain
+
+Richard:
+
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+> Bugger :-(
+
+Bugger indeed; I have been worrying about this constantly. I'm devastated by
+the news. Jeff was one of the top people I've known; always gentlemanly,
+always positive and supportive, always joining in.
+
+I was hoping to do one of the European runs in his company some time; that
+chance has now gone.
+
+I hope Richard's right and that he never felt any pain; it's small
+consolation, but you have to look for small mercies.
+
+Jeff, goodbye mate, and have fun wherever you are. I can hardly see to type
+through the tears; but I hope you're having the last laugh.
+
+RIP old son.
+
+:-(((((((
+
+IanE
+PS Richard - we all owe you a debt of gratitude for playing the difficult
+role of intermediary in this tragic series of events, and Marvin and Pete,
+we're all thinking of you two as well.
+
+
+
+
+- ------------------------------
+
+Date:    Mon, 02 Jul 2001 22:30:37 +0100
+From:    Robert Cameron <robert@robertcameron.com>
+Subject: RE: The worst news - Jeff Wain
+
+We got a call from Jane this evening to tell us and I too have been in tears - 
+terrible news.
+
+Jeff to me was a real example of the nicest sort of person you can meet - a tru
+e gentleman.
+
+I can't believe we'll never see him again.
+
+Robert
+
+
+
+
+
+
+
+
+- ------------------------------
+
+Date:    Mon, 02 Jul 2001 22:31:43 +0100
+From:    "Derek Marshall" <ratcliffe@ntlworld.com>
+Subject: Re: The worst news - Jeff Wain
+
+Richard broke the news:
+
+>I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+
+I don't know what to say, I only knew Jeff through the list and  never met
+him, but why is it always the decent guys ?
+I suppose all I can say is that at least he went doing something he loved,
+and in such a nice area, judging by the photos.
+Please pass on my deepest sympathies to Linda who of course is at the centre
+of all this, and also to Marvin and Pete as well.
+I really don't know what to say.  I've never had to do this before,  if
+there's anything I can do to help anyone, please get in touch with me, I'm
+off work this week.
+
+Derek
+
+
+
+
+
+- ------------------------------
+
+Date:    Mon, 02 Jul 2001 22:46:58 +0100
+From:    Gordon Brown <gordon@spods.demon.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+Sitting here having read the sad news, I just feel numb.
+
+Ixion is more than just a mailing list, it's like a family. And today we
+lost a member of that family.
+
+Rest in Peace Jeff.
+- - -- 
+Gordon
+
+
+
+- ------------------------------
+
+Date:    Mon, 02 Jul 2001 23:01:05 +0100
+From:    Ben Lovejoy <ben@benlovejoy.com>
+Subject: Re: The worst news - Jeff Wain
+
+richard@oscarthecat.freeserve.co.uk wrote:
+
+>I'm sorry to have to give you the worst possible news: Jeff's=
+ gone.
+
+I can't tell you how upset I was to get your call. I didn't think=
+ I would 
+be - I only met him maybe five or six times - but with someone=
+ like Jeff it 
+doesn't- didn't take many conversations for him to become a=
+ friend.
+
+It's amazing how saintly people become when you hear people talk=
+ about them 
+after their death, but Jeff really was one of the good guys.
+
+I made a mistake at the weekend and span the car on the Ring. A=
+ few minutes 
+later, it was something we laughed about, and today it became a=
+ source of 
+piss-taking on the ringers list. Jeff maybe made a similar=
+ mistake, if 
+that's what it was, and now he's dead. Life can be fucking unfair=
+ 
+sometimes.
+
+An idea in a separate email: 'Photos of Jeff'.
+
+Ben
+
+- - -- 
+ben@benlovejoy.com - www.benlovejoy.com - www.nurburgring.org.uk
+
+
+
+
+- ------------------------------
+
+Date:    Mon, 02 Jul 2001 23:51:16 +0100
+From:    Mike Fleming <mike@tauzero.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+"@" <adrian@alien8.net> said:
+
+> absent friends. when?
+
+I think it's September. Ironic that Jeff should have been the one to
+push Richard into cat-herding mode to organise it.
+
+Dee and I are both going to miss him a lot.
+
+- - --=20
+Mike Fleming
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 00:09:00 +0100
+From:    jaygee@cix.compulink.co.uk (Jonathon Green)
+Subject: Re: The worst news - Jeff Wain
+
+In-Reply-To: <E15HBlT-000Anq-0C@finch-post-12.mail.demon.net>
+Ben Lovejoy
+> An idea in a separate email: 'Photos of Jeff'.
+
+An excellent idea.
+
+Could I also suggest that we might follow the protocol established when we 
+lost Paul Yull by reserving am Ixion Digest solely for people to pay 
+respects and/or tribute? - It worked rather well for Paul, and, while God 
+knows I hope it doesn't happen again in my tenure on Ixion, it has the 
+makings of a fine and honourable tradition for dealing with such things...
+
+- - -- 
+Jonathon Green
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 00:09:00 +0100
+From:    jaygee@cix.compulink.co.uk (Jonathon Green)
+Subject: Re: The worst news - Jeff Wain
+
+In-Reply-To: <00a301c1033c$3cf9a7c0$5bc6193e@psgazgqf>
+It seems like only yesterday that I spent a very congenial couple of hours 
+with Jeff in the "quiet area" of the Ben-my-Cree, watching the Irish sea 
+go past on the way home from Keith's party[1] and the un-TT. I guess there 
+are much worse ways to remember people. We also enjoyed a couple of very 
+pleasant meals in a Chinese restaurant in Ramsey, and I think I spoke with 
+Jeff more on that trip than I did in all the rest of the time I've known 
+him. As the conversation touched on the time he'd spent as a magistrate, 
+and the attitudes that had informed him in his business career I gained a 
+hell of a lot of respect for him as a thoroughly decent man who'd put a 
+lot of time and effort into trying to do The Right Thing, and to make his 
+corner of the world a better place to be.
+
+I hope this won't come over as frivolous, but for the last few days it's 
+been on my mind that I owe Jeff for a cup of coffee and a Danish Pastry 
+from that last journey, and I was very much looking forward to squaring 
+that account, or, I suppose more accurately, having the opportunity to...
+
+Damn. I'm not good at this stuff. To my eternal shame there have been 
+times when I could and should have made an effort to contribute to this 
+community in times of stress and somehow, I just couldn't do it. But not 
+this time.
+
+I really hope you enjoyed that last ride Jeff, right up to the very moment 
+that it all went wrong...
+
+- - -- 
+Jonathon Green
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 00:11:24 +0100
+From:    "Ian Ellison" <ian.ellison@ntlworld.com>
+Subject: Re: The worst news - Jeff Wain
+
+JG:
+> Could I also suggest that we might follow the protocol established when we
+> lost Paul Yull by reserving am Ixion Digest solely for people to pay
+> respects and/or tribute? - It worked rather well for Paul, and, while God
+> knows I hope it doesn't happen again in my tenure on Ixion, it has the
+> makings of a fine and honourable tradition for dealing with such things...
+
+
+Seconded.
+
+IanE
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 00:13:11 +0100
+From:    Greg Gladwell <greg@theredpill.org>
+Subject: Re: The worst news - Jeff Wain
+
+This is a very weird experience... I've only been biking for a short period of
+time, and Ixion has been part of my window into the new world I'm now
+exploring. You get to feel that you know the people on the list, and it's
+quite bizarre to feel a genuine sense of loss upon learning that someone
+you've never met is no longer with us... but feel it I do, and it's a very
+empty and numb feeling.
+
+Please communicate my deepest sympathy to his family and loved ones.
+
+Greg :(
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 00:24:26 +0100
+From:    "Ian Ellison" <ian.ellison@ntlworld.com>
+Subject: Re: The worst news - Jeff Wain
+
+> I hope this won't come over as frivolous, but for the last few days it's
+> been on my mind that I owe Jeff for a cup of coffee and a Danish Pastry
+> from that last journey, and I was very much looking forward to squaring
+> that account, or, I suppose more accurately, having the opportunity to...
+>
+It must be a sign of his generosity 'cos I know I owe him at least a couple
+of pints from the same trip....
+
+I must confess to descending into a very maudlin frame of mind in these
+circumstances; I was shocked when Paul died but I didn't know him. I knew
+Jeff; I haven't known many people who have died before their time - my
+brother who died at 4 months old; a flatmate who died in New Zealand
+mountain climbing; a mate who was epileptic and choked during a fit aged 32;
+a colleague of Kathy's who died of cancer in his early 40's; and Jeff. Ever
+time it's deeply affected me, and I just know Jeff will be the same.
+
+I guess you just have to make sure you don't get hardened to it, and that
+each case is taken as it comes as a tragic loss of humanity. I was hoping to
+avoid alcohol for a few days as a way of losing weight and just sorting
+myself out a bit; I have to admit I'm currently tucking into a large
+Armagnac and it's not my first by a long way - Jeff, the toast is you!
+Apologies to the rest of the world if I'm being self-indulgent, but I don't
+care....
+
+IanE
+
+
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 00:51:41 +0100
+From:    marvin <ixion@kmbennett.tele2.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+Richard Moore <richard@oscarthecat.freeserve.co.uk> writes
+>I'm sorry to have to give you the worst possible news: Jeff's gone.
+[...]
+Three years and six weeks ago today (Thursday, May 21, 1998) I received
+a telephone call from Jeff. I had hoped that I'd never again have to
+hear the news he gave me. This evening there was a knock at my door and
+I was given a variation of the same message but Jeff wasn't the
+messenger this time, he was the subject.
+I know Jeff enjoyed riding Norway as much as Peter and I did. He
+could've been doing anything, in any exotic location in the world but he
+chose to ride to the arctic with Pete and me. Thanks for the company,
+cock.
+I fear I may need a new keyboard; this one appears to be full of salty
+water for some reason.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               This space left unintentionally blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- - -- 
+marvin
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 01:24:30 +0100
+From:    Ben Lovejoy <ben@benlovejoy.com>
+Subject: Re: The worst news - Jeff Wain
+
+ixion@kmbennett.tele2.co.uk wrote:
+
+>I know Jeff enjoyed riding Norway as much as Peter and I did.=
+ He
+>could've been doing anything, in any exotic location in the=
+ world but he
+>chose to ride to the arctic with Pete and me. 
+
+It may be a bit early to say this, but since we all have to die=
+ sometime, 
+there are worse ways than while enjoying that kind of adventure.
+
+Ben
+
+- - -- 
+ben@benlovejoy.com - www.benlovejoy.com - www.nurburgring.org.uk
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 01:53:29 +0100
+From:    "Kevan Boitoult" <kevan.boitoult@virgin.net>
+Subject: RE: The worst news - Jeff Wain
+
+I didn't know Jeff apart from on the list but it still saddens me to hear of
+another loss. Please pass my condolences onto Linda and the family.
+
+Scruff
+
+
+
+
+
+
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 07:38:06 +0100
+From:    "Stuart Duckworth" <s_duckworth@cableinet.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+On 2 Jul 01, at 22:15, Richard Moore wrote:
+
+> Jeff's gone.
+> 
+
+To all Ixies who knew Jeff and thought so much of him.
+
+For the rest of us who'd never met him but shared his love of biking 
+and were his friends through Ixion too.
+
+And especially to Linda for her awful loss.
+
+Heartfelt sympathy.
+
+RIP Jeff.
+
+Stuart D.
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 07:54:21 +0100
+From:    "Richard Moore" <richard@oscarthecat.freeserve.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+Hello Ben
+
+>It may be a bit early to say this, but since we all have to die sometime,
+>there are worse ways than while enjoying that kind of adventure
+
+Ben, there's never a right thing to say or a right time to say it, and
+you're right. Everything sounds like a cliche, there's no getting round it.
+He died living.
+
+Cheers
+Richard
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:36:24 +0200
+From:    Buzz <buzz@btinternet.com>
+Subject: Re: The worst news - Jeff Wain
+
+Richard wrote:
+
+>I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+I mainly knew Jeff from the list, only meeting in person once on the
+Ponteland based outing a couple of years back.  Have to agree with the
+prevailing view that you couldn't wish to meet a nicer bloke.=20
+
+Condolences and sympathy to his family and friends.
+
+Buzz=20
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 07:42:59
+From:    "Clinton Gardiner" <clintonrg@hotmail.com>
+Subject: Re: The worst news - Jeff Wain
+
+Richard Moore wrote:
+>I'm sorry to have to give you the worst possible news:
+>Jeff's gone.
+
+Thanks for letting us know Richard. Please extend my deepest sympathys to 
+Jeffs family and friends. He will
+be missed.
+
+Clinton
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:01:49 +0100
+From:    Richard Mitchell <Richard.Mitchell@vbnonline.com>
+Subject: RE: The worst news - Jeff Wain
+
+
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+> 
+Having not met Jeff I can only offer my deepest sympathies for his
+family and friends.
+
+Rest In Peace.
+
+Richard Mitchell
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:02:56 +0100
+From:    "Coyne, Paul" <paul.coyne@csfb.com>
+Subject: RE: The worst news - Jeff Wain
+
+
+> 
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+It's funny<1>, despite having never met Jeff, I find myself very saddened by
+his death. Possibly because as bikers it's a risk we live with daily so it
+brings the whole thing much closer to home.
+To those who knew him, my sympathies.
+To his family, my deepest condolences. I can't imagine how you feel right
+now and can only hope that you find the strength to get through it.
+
+Lets just hope that Jeff finds himself in a place with no speed limits, no
+Gatso's, traffic police and numpties in cages. May all his roads be winding
+and dry....
+
+
+ 
+> Bugger :-(
+
+That's about the size of it.
+
+
+Paul
+
+<1>Not literally, you bastards...
+
+
+- - -- 
+
+
+This message is for the named person's use only.  It may contain 
+confidential, proprietary or legally privileged information.  No 
+confidentiality or privilege is waived or lost by any mistransmission.
+If you receive this message in error, please immediately delete it and all
+copies of it from your system, destroy any hard copies of it and notify the
+sender.  You must not, directly or indirectly, use, disclose, distribute, 
+print, or copy any part of this message if you are not the intended 
+recipient. CREDIT SUISSE GROUP and each of its subsidiaries each reserve
+the right to monitor all e-mail communications through its networks.  Any
+views expressed in this message are those of the individual sender, except
+where the message states otherwise and the sender is authorised to state 
+them to be the views of any such entity.
+Unless otherwise stated, any pricing information given in this message is 
+indicative only, is subject to change and does not constitute an offer to 
+deal at any price quoted.
+Any reference to the terms of executed transactions should be treated as 
+preliminary only and subject to our formal written confirmation.
+
+
+
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:07:11 +0100
+From:    Andy Cannon <Andy.Cannon@actfs.co.uk>
+Subject: RE: The worst news - Jeff Wain
+
+
+Bollocks.
+
+ I dreamt he was coming out of it last night.
+
+RIP Jeff and condolences to his family.
+
+Thanks for keeping the list informed Richard.
+
+Bollocks.
+
+Andy
+
+The views and opinions expressed in this email message are the senders and
+do not necessarily represent the views and opinions of ACT Financial Systems
+Ltd.  
+
+***********************************************************************
+This message has been checked for all known viruses by the
+E-mail Virus Protection service, powered by MessageLabs.
+***********************************************************************
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:21:20 +0100
+From:    bill.2.parker@bt.com
+Subject: RE: The worst news - Jeff Wain
+
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+> 
+
+I didn't know Jeff but I'd still like to  offer my deepest sympathies for
+his family and friends.
+
+Race in Peace
+
+Bill
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:29:50 +0100
+From:    "Bowler, Colin [Amek UK]" <Colin.Bowler@AMEK.com>
+Subject: RE: The worst news - Jeff Wain
+
+
+
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+
+I really hoped I'd never have to read anything like this, and being a
+relative newcomer to bikes I certainly hadn't expected it to be so soon.
+After less than a year of motorcycling, and already someone I knew (albeit
+very briefly) has gone. 
+
+My deepest sympathies to Linda, and also to Marvin and Pete. To Richard,
+thanks for keeping us all informed during what must have been a difficult
+time for you, too.
+
+I met Jeff once. In that short couple of hours, he did a lot of smiling, and
+he made me laugh. Rest in peace, Jeff.
+
+Colin
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:29:58 +0100
+From:    "Steve Manley" <steve.manley@blueyonder.co.uk>
+Subject: RE: The worst news - Jeff Wain
+
+Just caught up with the list, really bad news.
+
+Didn't know Jeff but we lost a good mate over three years ago and it still
+hurts.
+
+Our condolences to the family and friends.
+
+Ride free Jeff
+
+Stevey
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:34:31 +0100
+From:    =?iso-8859-1?q?Nile=20Blue?= <niblue@yahoo.com>
+Subject: RE: The worst news - Jeff Wain
+
+ --- Andy Cannon <Andy.Cannon@actfs.co.uk> wrote: > 
+> Bollocks.
+> 
+>  I dreamt he was coming out of it last night.
+
+I've never met Jeff or corresponded much with him but
+I've been thinking about him a lot in this last week
+or so. For the last couple of days I'd been expecting
+and looking forward to a post saying he was past the
+worst and on the mend - seeing the awful news this
+morning has come as quite a shock and I find myself
+quite affected by it.
+
+RIP Jeff and deepest condolences to his family and
+friends.
+
+Regards
+Steve
+
+____________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.co.uk address at http://mail.yahoo.co.uk
+or your free @yahoo.ie address at http://mail.yahoo.ie
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:46:58 +0100
+From:    E Justin M Rowles <justin@aug24.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+Veggie Dave wrote:
+> 
+> Jeff Wain - very possibly the nicest person I've ever known and someone
+> I'll miss more than he'll ever know
+
+Exactly.  It isn't fair.
+
+Justin.
+- - --
+You're only jealous cos the little penguins are talking to me.
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:46:58 +0100
+From:    E Justin M Rowles <justin@aug24.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+Veggie Dave wrote:
+> 
+> Jeff Wain - very possibly the nicest person I've ever known and someone
+> I'll miss more than he'll ever know
+
+Exactly.  It isn't fair.
+
+Justin.
+- - --
+You're only jealous cos the little penguins are talking to me.
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:57:27 +0100
+From:    =?iso-8859-1?q?Han=20Dunsterville?= <h_dunsty@yahoo.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+Oh fsck. The fact that I never knew the guy except online doesn't
+really matter; I was looking forward to going to the hospital and
+saying hi, Andy & I didn't send a card because we were going to get a
+box together of things for him to occupy himself with when he came
+round, I had fun trying to think of things that someone with two broken
+arms could do. 
+
+This is the only online community where I feel that it really doesn't
+matter that I never knew him in the flesh; Ixion is a special thing and
+it's so tragic we've lost one of our members. 
+
+:o(
+
+HAN
+
+____________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.co.uk address at http://mail.yahoo.co.uk
+or your free @yahoo.ie address at http://mail.yahoo.ie
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 10:17:37 +0100
+From:    eric the brave <simon_batey@ixion.org.uk>
+Subject: Re: The worst news - Jeff Wain
+
+On Mon, 2 Jul 2001 22:15:23 +0100, you wrote:
+
+>I'm sorry to have to give you the worst possible news: Jeff's gone.
+>
+>He died at 2 this afternoon. His blood pressure had fallen so low; they
+>couldn't bring him back up again, he was fighting on too many fronts.
+>
+>He didn't re-gain consciousness properly after the accident: he was =
+sedated
+>and probably spent the entire time dreaming of riding in Norway.
+>
+>I'm sorry to every one of his friends who has had to find this out from =
+the
+>list:
+
+No problem Thanks for keeping me (us) up to date like...
+
+>we tried to set a grapevine in motion but we don't have everyone's
+>phone number, I'm sorry if we have your number but haven't rung you, I'm
+>sorry to have to post this at all. He was my friend and he was yours =
+too.
+
+Absolutly. Jeff was one of the nicest blokes I had the pleasure to
+meet...
+
+>
+>Bugger :-(
+
+Shit indeed. RIP Jeff. Absent friends....
+- - --=20
+SimonB
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 10:27:38 +0100
+From:    Austin Shackles <austin@ddol-las.fsnet.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+On or around Mon, 2 Jul 2001 22:15:23 +0100, "Richard Moore"
+<richard@oscarthecat.freeserve.co.uk> opined:
+
+>I'm sorry to have to give you the worst possible news: Jeff's gone.
+>
+>Bugger :-(
+
+I'll second that.  Or twenty-second, as is more likely by now.
+
+I didn't know him personally, been off this list for several years too, =
+only
+recently re-discovered it.  I can't remember if he was around when I was =
+last
+on ogri, as it was then (sometime between 1990-94 I should think), quite
+possibly though; a lot of stuff has happened since...
+
+Pass on my sympathies, if you get a suitable chance.
+
+- - --=20
+Austin Shackles:DoD #0467:bike - BMW R60/6 (with home-brew monoshock =
+rear)=20
+cage - Ford Sierra 2800i ghia 4x4 estate : big cage - 8-seater LDV =
+minibus
+Run your car on gas - clean, green and cheap! see web page for details...
+http://www.telinco.co.uk/anshackles/index.htm : my opinions are just that=
+=20
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 10:27:38 +0100
+From:    Austin Shackles <austin@ddol-las.fsnet.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+On or around Mon, 2 Jul 2001 22:15:23 +0100, "Richard Moore"
+<richard@oscarthecat.freeserve.co.uk> opined:
+
+>I'm sorry to have to give you the worst possible news: Jeff's gone.
+>
+>Bugger :-(
+
+I'll second that.  Or twenty-second, as is more likely by now.
+
+I didn't know him personally, been off this list for several years too, =
+only
+recently re-discovered it.  I can't remember if he was around when I was =
+last
+on ogri, as it was then (sometime between 1990-94 I should think), quite
+possibly though; a lot of stuff has happened since...
+
+Pass on my sympathies, if you get a suitable chance.
+
+- - --=20
+Austin Shackles:DoD #0467:bike - BMW R60/6 (with home-brew monoshock =
+rear)=20
+cage - Ford Sierra 2800i ghia 4x4 estate : big cage - 8-seater LDV =
+minibus
+Run your car on gas - clean, green and cheap! see web page for details...
+http://www.telinco.co.uk/anshackles/index.htm : my opinions are just that=
+=20
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 17:59:18 +0800
+From:    Christopher Pollard <beavis@chromenet.net>
+Subject: Re: The worst news - Jeff Wain
+
+Richard Moore wrote:
+>I'm sorry to have to give you the worst possible news:
+>Jeff's gone.
+
+There's not much I can say that hasn't already been said.
+I never met Jeff, but from what I've heard about him this past week, I =
+wish I
+had.
+
+
+
+Chris Pollard
+
+- - --
+CG Internet caf=E9, Tagum City, Philippines
+http://www.chromenet.net/~cginternet
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 11:24:35 +0100
+From:    "John W. List" <jwl@poptastic.com>
+Subject: Re: The worst news - Jeff Wain
+
+I just read this news and took the time out for a contemplative walk round
+the airfield here at Grove. Jeff was a nice bloke who knew how to ride and
+ride well and his accident was a great shock. Now we've lost him and the
+world isnt so good any more.
+     Last time I saw Jeff was at one of SMIDSY's buildfests. Opera singer,
+machinist and holder of the purse strings, he had it all!!
+    My sympathies are with Jeff's family.
+John W. List
+CB400/4
+XTZ750
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 11:27:06 +0100
+From:    "Keane,Tony" <tkeane@webershandwick.com>
+Subject: Re: The worst news - Jeff Wain
+
+Jeff,  one of the few people that always *knew* when I was talking bullshit
+;-)
+Never remember seeing him phased.  There's not many guys who can fall asleep
+at Cadwell with the roar of 40 bikes flying past!! :-)
+
+I'm always glad to have met these people and I always had time for Jeff.  
+
+A sorry loss indeed.
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 11:42:50 +0100
+From:    Adam Curtin at WatchMark <adam.curtin@watchmark.com>
+Subject: Re: The worst news - Jeff Wain
+
+REED MICHAEL wrote:
+> > I'm sorry to have to give you the worst possible news: Jeff's gone.
+> Jeff was an amazing bloke.
+> [...] always cheerful, smiling, joking, singing
+
+This is exactly how I remember him. I can't picture him when he isn't
+smiling, I can't remember his voice that wasn't on the verge of breaking
+into a laugh.
+
+We ixies spend so much time without seeing each other that maybe we
+shouldn't be affected so much by this kind of thing ... but I am: I'm
+sad I'll never enjoy his company again; I'm sad Jeff's not out there
+having fun; and I'm _very_ sad for his family and close friends.
+
+My uncle died on Wednesday, I feel guilty that I'm much sadder about
+Richard and Jeff.
+
+> I'm at a bit of a loss for words really.
+
+Why are we wired this way? I wish terrible things like this would make
+us spout everything we thought for hours. Stiff upper lips, cliches and
+tasteless jokes[1] ... do we use them to disguise our feelings, or as a
+screen to conceal that we're not feeling anything?
+
+[1] or introspective rambling, as I seem to be afflicted with.
+
+Adam.
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 11:53:42 +0100
+From:    Ian Ellison <Ian.Ellison@directmarketing.co.uk>
+Subject: RE: The worst news - Jeff Wain
+
+Adam:
+
+> This is exactly how I remember him. I can't picture him when he isn't
+> smiling, I can't remember his voice that wasn't on the verge=20
+> of breaking
+> into a laugh.
+>=20
+> Why are we wired this way? I wish terrible things like this would make
+> us spout everything we thought for hours. Stiff upper lips,=20
+> clich=E9s and tasteless jokes[1] ... do we use them to disguise our=20
+> feelings, or as a screen to conceal that we're not feeling anything?
+>=20
+> [1] or introspective rambling, as I seem to be afflicted with.
+>=20
+
+I know it isn't because we feel nothing - after my own ramblings last night
+I came down this morning to read the next batch of tributes, and my face was
+streaming with tears again. I'm having to bite my lip typing this sitting
+here in the office. I think it's simply that it's one of the most life
+changing things we experience, and certainly for me it's something I have
+only experienced a few times, so I really don't know how to express my
+feelings.
+
+Also a lot of the clich=E9s are clich=E9s because they ARE a true represent=
+ation
+of how we feel. Everyone says them because everyone shares some of the
+emotions and sense of loss.
+
+I think that it is in this situation we can see the benefit of the public
+declarations of support; it makes me feel better knowing that the rest of
+Ixion is there, and sharing the grieving process.=20
+
+Hope to see some of you at the funeral.
+
+IanE
+
+
+**********************************************************************
+This email and any files transmitted with it are confidential and=20
+intended solely for the use of the individual or entity to whom they  =20
+are addressed. If you have received this email in error please notify=20
+the system manager at DMS on 01242 584175 or=20
+administrator@directmarketing.co.uk.
+Visit our website at http://www.directmarketing.co.uk
+**********************************************************************
+
+_____________________________________________________________________
+This message has been checked for all known viruses by UUNET delivered 
+through the MessageLabs Virus Control Centre. For further information visit
+http://www.uk.uu.net/products/security/virus/
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 10:57:04 +0000
+From:    "REED MICHAEL" <M.Reed@greenwich.ac.uk>
+Subject: Re: The worst news - Jeff Wain
+
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+I'm at a bit of a loss for words really. Jeff was an amazing bloke. 
+Spend time talking to him and he had experienced life to the full, 
+he'd paid his dues through hard work and was out to enjoy his 
+retirement and get the most out of it he could. It took so much to 
+get him down, always cheerful, smiling, joking, singing (especially 
+early in the morning when he knew it wound people up!) Always willing 
+to help.
+
+Without him the Ixi Robot wouldn't have happened. Without him I guess 
+a lot of stuff wouldn't have got past the good idea stage, his drive 
+and optimism always enough to get things going. I remember riding 
+across the country to give him support after Paul's death, I remember 
+so many things that we've done, good times we've had. Guess I've just 
+got to realise that they will be there forever, and whatever comes 
+next, Jeff will have sorted out the welcoming banners well in 
+advance.
+
+Our thoughts go out to Linda, his family, marvin and all of his 
+friends.
+
+Mik, Mel & Kai.
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 10:57:04 +0000
+From:    "REED MICHAEL" <M.Reed@greenwich.ac.uk>
+Subject: Re: The worst news - Jeff Wain
+
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+I'm at a bit of a loss for words really. Jeff was an amazing bloke. 
+Spend time talking to him and he had experienced life to the full, 
+he'd paid his dues through hard work and was out to enjoy his 
+retirement and get the most out of it he could. It took so much to 
+get him down, always cheerful, smiling, joking, singing (especially 
+early in the morning when he knew it wound people up!) Always willing 
+to help.
+
+Without him the Ixi Robot wouldn't have happened. Without him I guess 
+a lot of stuff wouldn't have got past the good idea stage, his drive 
+and optimism always enough to get things going. I remember riding 
+across the country to give him support after Paul's death, I remember 
+so many things that we've done, good times we've had. Guess I've just 
+got to realise that they will be there forever, and whatever comes 
+next, Jeff will have sorted out the welcoming banners well in 
+advance.
+
+Our thoughts go out to Linda, his family, marvin and all of his 
+friends.
+
+Mik, Mel & Kai.
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 12:07:28 +0100
+From:    flook <flook@bigwig.net>
+Subject: Re: The worst news - Jeff Wain
+
+On Mon, 2 Jul 2001 22:15:23 +0100, "Richard Moore"
+<richard@oscarthecat.freeserve.co.uk> wrote:
+
+>I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+Just to add my sympathies to Jeff's family and friends. Having read all =
+the
+messages, it is clear that he was a popular and likeable chap. I only met=
+ him
+once at Blyton, never got to know him, will never get the chance now. :-(
+
+A few people on UKRM who knew of Jeff and his accident have been asking =
+me how
+he was. They pass on their best wishes to Linda and all.
+
+Thanks Richard, for passing on the news, can't have been easy.
+
+Is there a collection/flowers thing being organised?=20
+
+flook
+
+- - --
+http://www.mancgoff.co.uk  ICQ: 46606946
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 12:16:35 +0100
+From:    John Greystrong <john.greystrong@ntlworld.com>
+Subject: Re: The worst news - Jeff Wain
+
+As others have said, one of the nicest blokes you
+could ever want to meet. It was always a pleasure
+to be in his company.
+
+Condolences to everyone whose life he brightened.
+
+John
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 13:07:05 +0100
+From:    Matt <matt@mdsmccl.demon.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+In article <memo.925314@cix.compulink.co.uk>, Jonathon Green
+<jaygee@cix.compulink.co.uk> writes
+>It seems like only yesterday that I spent a very congenial couple of hours 
+>with Jeff in the "quiet area" of the Ben-my-Cree, watching the Irish sea 
+>go past on the way home from Keith's party[1] and the un-TT. I guess there 
+>are much worse ways to remember people. We also enjoyed a couple of very 
+>pleasant meals in a Chinese restaurant in Ramsey, and I think I spoke with 
+>Jeff more on that trip than I did in all the rest of the time I've known 
+>him. As the conversation touched on the time he'd spent as a magistrate, 
+>and the attitudes that had informed him in his business career I gained a 
+>hell of a lot of respect for him as a thoroughly decent man who'd put a 
+>lot of time and effort into trying to do The Right Thing, and to make his 
+>corner of the world a better place to be.
+
+My missus only knew him from that week on the Island and when I passed
+on the news that he'd had a bad one on the way back from his visit to
+the northernmost parts she made the comment that 'old thin legs' as she
+called him 'was the most gentlemanly' of all my biking mates.
+
+She had him sussed and even I, although I knew of his work and
+connections, was also mightily impressed.
+
+Feck!! RIP Jeff, wherever you are.
+
+- - -- 
+Matt - Dorset.
+OT #4. TSTF #1. AWA #3. TGMCC #8. UKMC #9. GHPOTHUF #2. BOF #38.
+It only takes two-strokes to get me excited (or a threesome :-))
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 13:12:26 +0100
+From:    Matt <matt@mdsmccl.demon.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+In article <013601c1034e$23a91320$7505ff3e@beavervalley.co.uk>, Ian
+Ellison <ian.ellison@ntlworld.com> with a large Armagnac writes
+
+>Apologies to the rest of the world if I'm being self-indulgent, but I don't
+>care....
+
+He'd have been more impressed if he knew you'd stuck to the plan and
+stayed off the booze...
+
+Jeff liked a nice cuppa - just like I have here before me.
+
+- - -- 
+Matt - Dorset.
+OT #4. TSTF #1. AWA #3. TGMCC #8. UKMC #9. GHPOTHUF #2. BOF #38.
+It only takes two-strokes to get me excited (or a threesome :-))
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 13:22:21 +0100
+From:    Nick Reynolds <n.c.m.reynolds@btinternet.com>
+Subject: Re: The worst news - Jeff Wain
+
+I did not know Jeff very well personally, but in the 18 months or so
+I've been on the list we met at numerous Ixion social events. He was
+travelling about enjoying his retirement, meeting and making friends,
+talking the kind of sensible nonsense that he specialised in and proving
+that you can grow old disgracefully in the best possible way.
+
+His recent message from Norway to Jim & Diane at their wedding reception
+made me look forward to meeting Jeff again at Mike Caters BHGP trackday
+this month. Sadly this was not to be.
+
+RIP Jeff, we will miss you.
+
+- - -- 
+Nick Reynolds
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 13:44:22 +0100
+From:    Ian Ellison <Ian.Ellison@directmarketing.co.uk>
+Subject: RE: The worst news - Jeff Wain
+
+Matt:
+> 
+> In article <013601c1034e$23a91320$7505ff3e@beavervalley.co.uk>, Ian
+> Ellison <ian.ellison@ntlworld.com> with a large Armagnac writes
+> 
+> >Apologies to the rest of the world if I'm being 
+> self-indulgent, but I don't care....
+> 
+> He'd have been more impressed if he knew you'd stuck to the plan and
+> stayed off the booze...
+> 
+> Jeff liked a nice cuppa - just like I have here before me.
+> 
+Sorry Matt! I'm a bad example and a worse understudy!
+
+Don't remember Jeff drinking much tea on McFrames stag do though....
+
+IanE
+
+
+**********************************************************************
+This email and any files transmitted with it are confidential and 
+intended solely for the use of the individual or entity to whom they   
+are addressed. If you have received this email in error please notify 
+the system manager at DMS on 01242 584175 or 
+administrator@directmarketing.co.uk.
+Visit our website at http://www.directmarketing.co.uk
+**********************************************************************
+
+_____________________________________________________________________
+This message has been checked for all known viruses by UUNET delivered 
+through the MessageLabs Virus Control Centre. For further information visit
+http://www.uk.uu.net/products/security/virus/
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 14:25:20 +0100
+From:    "neil.a.harvey" <n.a.harvey@staffs.ac.uk>
+Subject: Re: The worst news - Jeff Wain
+
+Richard Moore wrote:
+
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+>
+
+I only met Jeff on a couple of occasions at Cadwell track days, and can
+only repeat what a gentleman and thoroughly nice guy he was.
+My heartfelt condolences to Linda and his family and friends.
+
+RIP Jeff  and God bless
+
+                                  nogger :-((
+
+
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 14:29:29 +0100
+From:    Heaton JM <J.M.Heaton@salford.ac.uk>
+Subject: Re: The worst news - Jeff Wain
+
+As I've just read the digest, and found out, a few comments:
+
+First and foremost, condolences to Linda, and the rest of Jeff's family. No
+matter how much
+we think *we'll* miss him.....
+
+Secondly, it's just struck me how *few* times I met Jeff, a dozen or so (at
+most), and yet 
+how good a friend I felt him to be - sign of someone worth knowing, that.
+
+Inevitably, I wish I'd got to know him better. Too bloody late now. Sorry,
+mate.
+
+Jeff was a friendly, charming and witty individual, with a talent for the
+surreal and 
+tangential gag rivalled only by marvin. I'll miss his contribution to the
+list, and miss
+him even more on the odd occasion I make it to Sherburn.
+
+
+RIP Jeff.
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 16:24:37 +0100
+From:    =?iso-8859-1?q?graham=20arnold?= <ixion_ky@yahoo.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+Dear list,
+
+I don't really know what to say. I met Jeff on a
+number of occassions and as others have said he was
+one of the nicest people I have met. What is more, he
+lived in the same village as my SO's parents and they
+had only recently met him at one of the village do's.
+My sympathies go out to his family and to Marvin and
+Pete, who must be devastated with the whole
+experience. And also to Richard, who had the difficult
+task of keeping the list informed.
+
+Goodbye, Jeff.
+
+Graham A.
+
+____________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.co.uk address at http://mail.yahoo.co.uk
+or your free @yahoo.ie address at http://mail.yahoo.ie
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 17:06:59 +0100
+From:    Matt <matt@mdsmccl.demon.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+In article <C0F240107EE4D311911100105A45BBFB5A133D@DMSNT-S02>, Ian
+Ellison <Ian.Ellison@directmarketing.co.uk> writes
+>Don't remember Jeff drinking much tea on McFrames stag do though....
+
+Nope, if I've learnt one thing these last few weeks, it's that there are
+some people who know when and how much to drink! 
+
+My idea of drinking is drink until your eyes close and start drinking
+again when they open.
+
+Jeff was one of the few and I don't just mean his drinking habits!
+
+- - -- 
+Matt - Dorset.
+OT #4. TSTF #1. AWA #3. TGMCC #8. UKMC #9. GHPOTHUF #2. BOF #38.
+It only takes two-strokes to get me excited (or a threesome :-))
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 17:25:46 +0100
+From:    Adam Curtin at WatchMark <adam.curtin@watchmark.com>
+Subject: Re: The worst news - Jeff Wain
+
+Matt wrote:
+> Jeff was one of the few and I don't just mean his drinking habits!
+
+Bloody hell. I knew he was old - maybe even older than you Matt - and of
+course he was toppest of top blokes, but I never realised he was a
+fighter pilot in the Battle of Britain.
+
+A.
+- - -- 
+Typing with one hand
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 20:11:37 +0100
+From:    <alice.thornley@uk.pwcglobal.com>
+Subject: Re: The worst news - Jeff Wain
+
+Memo from Alice Thornley of PricewaterhouseCoopers
+
+- - -------------------- Start of message text --------------------
+
+
+There goes one who was really worth caring about.
+
+RIP Jeff
+
+Alice
+
+
+- - --------------------- End of message text --------------------
+
+The principal place of business of PricewaterhouseCoopers and its associate
+partnerships is 1 Embankment Place, London WC2N 6NN where lists of the
+partners' names are available for inspection. All partners in the associate
+partnerships are authorised to conduct business as agents of, and all
+contracts for services to clients are with, PricewaterhouseCoopers. The UK
+firm of PricewaterhouseCoopers is authorised by the Institute of Chartered
+Accountants in England and Wales to carry on investment business.
+PricewaterhouseCoopers is a member of the world-wide
+PricewaterhouseCoopers organisation.
+- - ----------------------------------------------------------------
+The information transmitted is intended only for the person or entity to
+which it is addressed and may contain confidential and/or privileged
+material.  Any review, retransmission, dissemination or other use of, or
+taking of any action in reliance upon, this information by persons or
+entities other than the intended recipient is prohibited.   If you received
+this in error, please contact the sender and delete the material from any
+computer.
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 20:49:22 +0100
+From:    Matt <matt@mdsmccl.demon.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+In article <3B41F20A.FC482516@watchmark.com>, Adam Curtin at WatchMark
+<adam.curtin@watchmark.com> writes
+>Matt wrote:
+>> Jeff was one of the few and I don't just mean his drinking habits!
+>
+>Bloody hell. I knew he was old - maybe even older than you Matt - and of
+
+Definitely older than me, I counted his wrinkles and he had even more
+grey hair than me!!
+
+>course he was toppest of top blokes, but I never realised he was a
+>fighter pilot in the Battle of Britain.
+
+I never saw him with a white scarf, or even his socks over the top of
+his boots but I'm sure he would have fitted in very well as a fighter
+pilot - what ho, cabbage crates at 9 O'Clock :-)
+
+- - -- 
+Matt - Dorset.
+OT #4. TSTF #1. AWA #3. TGMCC #8. UKMC #9. GHPOTHUF #2. BOF #38.
+It only takes two-strokes to get me excited (or a threesome :-))
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 22:55:00 +0100
+From:    "Kevan Boitoult" <kevan.boitoult@virgin.net>
+Subject: RE: The worst news - Jeff Wain
+
+Han:
+
+> This is the only online community where I feel that it really doesn't
+> matter that I never knew him in the flesh; Ixion is a special thing and
+> it's so tragic we've lost one of our members.
+
+As usual Han manages to sum it up so eloquently, I said earlier that I only
+knew Jeff from the list but, like so many others have said here, I'm feeling
+a sense of loss at losing a friend.
+
+RIP Jeff
+
+Scruff
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 18:29:07 -0700
+From:    Moj <moj@icnt.net>
+Subject: Re: The worst news - Jeff Wain
+
+You know,
+
+The thing I remember most vividly about Jeff was the fact that he was
+just so damn nice, nothing seems to overshadow that, he was just one of
+life's genuine nice guys. I remember sitting in a pub in Manchester
+bullshitting away with Jeff and just... Well, it's not important, I'll
+just miss the old bugger.
+
+I hadn't spoken to Jeff in a while, or most other people actually, I'm
+just so busy, and in the wrong country of course. I suppose I won't have
+the chance now, makes me remember what's important I spose.
+
+I mean, you wouldn't think some oiks you met on a mailing list would be
+any kind of priority in your life really would you, but when you look at
+this "place" as somewhere you talk to friends...
+
+:0(
+
+Like Richard said:
+
+Bugger.
+
+:0(
+
+Richard Moore wrote:
+> 
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+Shocked and saddened,
+
+Allan Moger
+
+
+
+- ------------------------------
+
+Date:    Wed, 04 Jul 2001 07:13:35 +0100
+From:    "Hone, Paul" <Phone@britax-aci.com>
+Subject: RE: The worst news - Jeff Wain
+
+Oh Richard, I am so sorry.
+I only just got his address off you to send a GWS card.
+
+Dave Lip's idea that he's cruising with Paul Yull was the
+best antidote for me this morning as I read the news.
+
+Remember the good times.....
+
+Paul
+VFR750F
+
+
+
+- ------------------------------
+
+Date:    Wed, 04 Jul 2001 16:53:48 +0100
+From:    "Neil the Stealth Hippy" <neil@stockman.org.uk>
+Subject: RE: The worst news - Jeff Wain
+
+Shit. I have just read this, a day late. I can't add anything that hasn't
+already been said. My thoughts are with Jeffs nearest and dearest, and
+everyone who has been touched by this.
+
+Be careful out there you lot
+
+Sleep well, Jeff.
+
+Neil
+
+
+
+
+- ------------------------------
+
+Date:    Thu, 05 Jul 2001 18:46:12 +0100
+From:    "BRC" <brc@bike.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+I am so sorry, I never met him nor had the chance to speak with him as I
+have only just discovered this, but my deepest sympathies to all his friends
+and family.
+
+:o((
+
+- - --
+                                        Jen
+                                   YZF750R (twins)
+                 BONY#2  BOTAFOT#100 MRO#16  ANORAK#3  ICQ#99631946
+                  www.bikersrest.co.uk   Harrogate   www.iam.org.uk
+                          *Does my bum look fast on this?*
+
+
+
+
+- ------------------------------
+
+Date:    Thu, 05 Jul 2001 22:52:16 +0100
+From:    Paul Matthews <Paul@hepcats.co.uk>
+Subject: Re: The worst news - Jeff Wain
+
+Thanks to Richard for the difficut job he has done.
+
+I only met Jeff the once. The single thing I would like to say is that he
+is the most generous and selfless person I have ever met.
+
+Paul.
+
+- - -- 
+Paul Matthews
+www.hepcats.co.uk
+paul@hepcats.co.uk
+
+
+
+
+- ------------------------------
+
+Date:    Mon, 09 Jul 2001 08:58:42 +0100
+From:    Andrew Poodle <Andrew.Poodle@reality.co.uk>
+Subject: RE: The worst news - Jeff Wain
+
+Just got back from holiday, to read this devastating news...
+
+Bizarre how the loss of someone you've never met can have such an impact.
+How a mere common interest can make you feel like you know someone..
+
+I can see from the sentiment of the postings on Ixion, that Jeff was a great
+friend to many, and will be missed.
+
+I don't rightly know what to say in this message, lest the lump in my throat
+could type...
+Please pass on my deepest sympathies to Jeff's family, friends and all
+concerned with dealing with this tragic event.
+
+A
+
+
+
+- - -- Your mouse has moved. Windows has to reboot for changes to take effect. 
+[
+OK ] --
+
+ Andrew Poodle
+ Programmer
+ t. +44 (0)141 302 2512
+ m. +44 (0)7980 346 488
+ f. +44 (0)141 810 3262
+ andrew.poodle@reality.co.uk
+ http://www.reality.co.uk/
+
+> -----Original Message-----
+> From: Andy Cannon [mailto:Andy.Cannon@actfs.co.uk]
+> Sent: 03 July 2001 09:07
+> To: Richard Moore; Ixion (E-mail)
+> Subject: RE: The worst news - Jeff Wain
+> 
+> 
+> 
+> Bollocks.
+> 
+>  I dreamt he was coming out of it last night.
+> 
+> RIP Jeff and condolences to his family.
+> 
+> Thanks for keeping the list informed Richard.
+> 
+> Bollocks.
+> 
+> Andy
+> 
+> The views and opinions expressed in this email message are 
+> the senders and
+> do not necessarily represent the views and opinions of ACT 
+> Financial Systems
+> Ltd.  
+> 
+> **************************************************************
+> *********
+> This message has been checked for all known viruses by the
+> E-mail Virus Protection service, powered by MessageLabs.
+> **************************************************************
+> *********
+> 
+
+
+
+- ------------------------------
+
+Date:    Mon, 02 Jul 2001 22:28:10 +0100
+From:    Jeremy Sagar <triumph.tiger@ntlworld.com>
+Subject: RIP Jeff
+
+My deepest sympathies to Linda, all of Jeff's family and friends and to 
+marvin and Pete who were there at the accident.  I will miss you Jeff, 
+and have some very fond memories of a crazy trip in search of darkness. 
+Rest peacefully.
+
+Jeremy Sagar
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 14:27:54 +0100
+From:    Mark.Cuthbert@yorkshirewater.co.uk
+Subject: RIP Jeff
+
+What a complete nightmare.
+
+I would just like to add to the condolences expressed upon the sad passing
+of a Great Man.
+
+Words really do fail me.
+
+
+Mark ;-(
+
+
+
+The information in this e-mail is confidential and may also be legally
+privileged. The contents are intended for recipient only and are subject 
+to the legal notice available at http://www.keldagroup.com/email.htm
+Yorkshire Water Services Limited
+Registered Office Western House Halifax Road Bradford BD6 2SZ
+Registered in England and Wales No 2366682
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 16:31:23 -0000
+From:    "Robin Bennett" <robinandkathy@hotmail.com>
+Subject: RIP Jeff
+
+I probably only met Jeff a dozen times or so but every single time he was 
+smiling and joking. Even when the rest of us were tired and depressed he'd 
+be the one trying to cheer us up.
+
+Jeff, you're missed already :-(
+
+Many thanks to those who kept us informed, a week of tension was perferable 
+to a sudden shock.
+
+Thanks also to those who have been able to say all the eloquent stuff that I 
+couldn't put into words. ObAnd to those who admitted that they too felt numb 
+and lost for words; I was wondering if I was weird for not being overcome by 
+a hollywood-style outpouring of grief.
+
+Robin
+
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+
+
+
+- ------------------------------
+
+Date:    Mon, 02 Jul 2001 22:47:13 +0100
+From:    mlh <mylovelyhorse@btinternet.com>
+Subject: Re[2]: The worst news - Jeff Wain
+
+Wotcha Veggie,
+
+Monday, July 02, 2001, 10:20:24 PM, you sedded:
+
+VD> Jeff Wain - very possibly the nicest person I've ever known and someone
+VD> I'll miss more than he'll ever know
+Extra-ordinarily well put.
+
+VD> Jeff RIP mate
+indeed
+
+- - -- 
+Cheers,
+ mlh 
+ trx850; srx600, etz301e, etz250
+
+
+
+
+- ------------------------------
+
+Date:    Mon, 02 Jul 2001 22:57:23 +0100
+From:    "@" <adrian@alien8.net>
+Subject: Re[2]: The worst news - Jeff Wain
+
+At 22:47 02/07/01 +0100, mlh wrote:
+>Wotcha Veggie,
+>
+>Monday, July 02, 2001, 10:20:24 PM, you sedded:
+>
+>VD> Jeff Wain - very possibly the nicest person I've ever known and someone
+>VD> I'll miss more than he'll ever know
+>Extra-ordinarily well put.
+
+aye.
+
+>VD> Jeff RIP mate
+>indeed
+
+AOL.
+
+lovely bloke.
+
+nuff said.
+
+@
+
+absent friends. when?
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 06:57:02 +0100
+From:    mlh <mylovelyhorse@btinternet.com>
+Subject: Memories of that Jeff bloke
+
+I'm very glad to say that I was able to have a long chat or 2 with
+Jeff at Jim Gillespie's stag do, leaving me with fresh good memories
+of someone I was pleased to consider to be my friend.
+
+On the Rumanian trip, he was a source of constant amusement and wit -
+with the odd spark of bad temper when he dropped the Starship
+Enterprise <g>.  Ever since his christening as such on that trip, I
+have thought of him as Ghandi's look-alike, so I am honoured to have
+known a minor religious icon ;-)
+
+Sleeping has been quite difficult this night just gone and I find
+myself unhappy at facing a future without one of the most splendid of
+The Idiots who went Abroad :-(
+
+- - -- 
+Cheers,
+ mlh
+ trx850; srx600, etz301e, etz250
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 09:18:06 +0200
+From:    Jason Hearn <jason.hearn@vni-paris.fr>
+Subject: Fwd: Re: The worst news - Jeff Wain
+
+
+
+On Mon, 02 Jul 2001, Richard Moore à ecrit:
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+Fuck :-(
+
+The world will be an emptier place without him and his flashing beacon. I
+think I'll always remember him trying to dig something out of my finger with
+his leatherman at the isle of man earlier this year. That and many other
+times.
+
+I'm frankly lost for words :-(
+
+Richard, I've said it before, and I'll say it again. Thanks for keeping us
+all informed of his progress, and I'm sorry that you have had to be the
+bearer of bad news.
+
+My condolences to his family and his many many friends. I'll miss him.
+
+Cordialement,
+
+Jason Hearn
+
+
+- - ---------------------------------------------------------------------
+Jason E. Hearn                          Visual Numerics Inc
+Ingénieur Support Technique             Tour Europe
+                                        33 Place des Corolles
+Tel: +33 1 46 93 94 27                  92049 Paris La Défense Cedex
+Fax: +33 1 46 93 94 39                  France
+
+Visual Numerics Celebrates 30 Years As An Independent Software Vendor
+- - ---------------------------------------------------------------------
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 10:39:46 +0200
+From:    WILLIS PAUL <PAUL.WILLIS@fortisbank.com>
+Subject: Jeff Wain - a big emptiness
+
+I'm sitting here genuinely lost for words :-(
+
+When Ben Lovejoy called me yesterday evening and said that he was calling
+about Jeff, my automatic thought was that he had woken up.  Sadly, very
+sadly, that was not to be...
+
+I've met Jeff on many occasions - the last time was only three weeks ago, at
+Jim Gillespie's stag night, two weeks prior to Jim's wedding to Diane.  Jeff
+was his usual ebullient self, sad only that he would miss the wedding itself
+due to his trip with marvin to the Arctic Circle!  I'm truly grateful that
+he managed to get there and that his accident occurred on the return leg.
+As ever, Jeff, in his quietly assuming way, had achieved another goal that
+most of us can only dream of having the courage to do.
+
+It was also typical of Jeff that he made special arrangements to get a faxed
+message of best wishes from northern Norway to Jim and Diane for their
+wedding day.  I've spoken with J&D whilst they've been on their honeymoon in
+Scotland, and their thoughts were with him for his recovery as well.
+
+Prior to that, Jeff had been with a few of us on the Isle of Man, for the
+2001 Not-TT.  I shared a hotel room with him and with the huge flourescent
+yellow jacket that he wore everywhere when he was riding...  Even at this
+particular moment, I can't think of it without smiling at the sight.  It
+features prominently on the pictures that marvin took in Norway, alongside
+his beloved VFR that he managed to smile about even when it was knocked over
+in front of him in the Creg carpark. We did wonders with gaffa tape that
+day...
+
+And that's not to mention the huge rotating flashing yellow light that he
+kept attached to the topbox of whichever bike he was riding, and on one
+memorable Eurothrashers occasion illuminated the entire campsite in the
+grounds of a French Chateau when we decided that we needed extra light to
+keep the wine flowing late at night...
+
+My thoughts go out to those who he leaves behind: to Linda, who I never had
+the pleasure of meeting, to friends and family, and of course to all of
+those Ixies who met Jeff over the years doing what he loved. We'll all have
+our different memories - may they never fade...
+
+Jeff Wain - a Gentleman, a Scholar, a Biker and a Friend.  Rest
+peacefully...
+
+Flymo.
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 11:05:47 +0200
+From:    Jason Hearn <jason.hearn@vni-paris.fr>
+Subject: Re: Jeff Wain - a big emptiness
+
+On Tue, 03 Jul 2001, WILLIS PAUL à ecrit:
+> I'm sitting here genuinely lost for words :-(
+>
+
+[snip lots and lots of words]
+
+> And that's not to mention the huge rotating flashing yellow light that he
+> kept attached to the topbox of whichever bike he was riding, and on one
+> memorable Eurothrashers occasion illuminated the entire campsite in the
+> grounds of a French Chateau when we decided that we needed extra light to
+> keep the wine flowing late at night...
+
+I think we need to get back to that campsite. I remember that night /very/ 
+well.
+
+No flashing beacons at
+  http://www.speedfreak.demon.co.uk/images/euro.html
+alas
+
+- - -- 
+
+Cordialement,
+
+Jason Hearn
+
+- - ---------------------------------------------------------------------
+Jason E. Hearn                          Visual Numerics Inc
+Ingénieur Support Technique             Tour Europe
+                                        33 Place des Corolles
+Tel: +33 1 46 93 94 27                  92049 Paris La Défense Cedex
+Fax: +33 1 46 93 94 39                  France
+
+Visual Numerics Celebrates 30 Years As An Independent Software Vendor
+- - ---------------------------------------------------------------------
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 12:31:17 +0100
+From:    Philip Pick <P.M.Pick@triples.demon.co.uk>
+Subject: Re: Jeff Wain - a big emptiness
+
+On Tue 03 Jul, WILLIS PAUL wrote:
+> I'm sitting here genuinely lost for words :-(
+
+snip
+
+> 
+> Prior to that, Jeff had been with a few of us on the Isle of Man, for the
+> 2001 Not-TT.  I shared a hotel room with him and with the huge flourescent
+> yellow jacket that he wore everywhere when he was riding...  Even at this
+> particular moment, I can't think of it without smiling at the sight.  It
+> features prominently on the pictures that marvin took in Norway, alongside
+> his beloved VFR that he managed to smile about even when it was knocked over
+> in front of him in the Creg carpark. We did wonders with gaffa tape that
+> day...
+
+
+I hadn't felt particulaly emotional while reading all the messages on
+Ixion about Jeff, until this one.  I suppose it was becuase I hadn't
+really met Jeff until the 2001 Not-TT.  We had met at sundry
+race meetings etc, but hadn't spent any time in each others
+sphere until the TT.
+
+One lasting impression he made on me then though, was that he had
+such an interest in other people.  He knew a darn site more about
+me than I did about him......just goes to show his caring character.
+
+Jeff, you'll be missed.  But in those words that I've heard at so
+many funerals 'I'm just in another room'  So, let's all think of Jeff
+as still here and include him in our thoughts and conversations.
+Anyway, who is to say that he can't still hear (and cheer) us.....
+
+please, Richard, pass my condolences to his family.
+
+- - -- 
+Philip Pick, Triple Cycles, 95 Wanstead Park Road Ilford Essex
+IG1 3TH England
+Telephone +44 20 8518 2018  Fax +44 20 8518 2505
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 12:35:51 +0100
+From:    Ian Ellison <Ian.Ellison@directmarketing.co.uk>
+Subject: RE: Jeff Wain - a big emptiness
+
+Phil:
+
+> Jeff, you'll be missed.  But in those words that I've heard at so
+> many funerals 'I'm just in another room'  So, let's all think of Jeff
+> as still here and include him in our thoughts and conversations.
+> Anyway, who is to say that he can't still hear (and cheer) us.....
+
+Nice words. On one of the US based lists I'm on there was a thread about the
+passing of the last of the Ducati brothers aged 97. One of the Yanks said
+that there was a tradition of riding with your pillion pegs down while solo
+as a mark of a missing companion. It's sentimental I know, but I gave Jeff a
+lift into work this morning....
+
+IanE
+
+
+**********************************************************************
+This email and any files transmitted with it are confidential and 
+intended solely for the use of the individual or entity to whom they   
+are addressed. If you have received this email in error please notify 
+the system manager at DMS on 01242 584175 or 
+administrator@directmarketing.co.uk.
+Visit our website at http://www.directmarketing.co.uk
+**********************************************************************
+
+_____________________________________________________________________
+This message has been checked for all known viruses by UUNET delivered 
+through the MessageLabs Virus Control Centre. For further information visit
+http://www.uk.uu.net/products/security/virus/
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 23:57:31 +0100
+From:    "Alan W. Frame" <alan.frame@acm.org>
+Subject: Re: Jeff Wain - a big emptiness
+
+Flymo said:
+
+>Jeff Wain - a Gentleman, a Scholar, a Biker and a Friend.  Rest
+>peacefully...
+
+Others have said more eloquent things than I can, but casting my mind
+back to dawn on one of the EuroThrashes to either Zolder or Croix, when
+Jeff woke me (at least!) up with his singing, I imagine he was singing
+right up to the end.
+
+It was _Oh What a Beautiful Morning_ from _Oklahoma!_
+
+RIP, Alan
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 10:20:55 +0100
+From:    E Justin M Rowles <justin@aug24.co.uk>
+Subject: Jeff Wain - excellent chap.
+
+I met Jeff through IxiRobotWars.  At the very beginning he volunteered
+to be treasurer and since then spent a lot of time making sure that the
+project was OK for cash.  
+
+He and I attended several buildfest and his company was never less than
+enjoyable.  A good face to see arrive and someone who got on with
+everyone by simply being himself - nice all round and a gentleman to
+boot.
+
+RIP Jeff, you'll be missed by many.
+
+Justin.
+- - --
+You're only jealous cos the little penguins are talking to me.
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 10:55:00 +0100
+From:    hix@aquarian-uk.com (Henry 'Aaron' Cooke Smith)
+Subject: Mixed emotions
+
+It feels strange trying to type this having just read about Jeff. To Linda 
+and all who new Jeff, we wish you well and our thoughts are with you.
+
+I would also like to introduce you to the newest member of the clan...
+
+Nikita Alisha Cooke Smith was born at 5:56 on Monday morning weighing 7lb 
+9oz. Despite currently being in special care we expect her to be fine.
+
+H
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 11:22:43 +0100
+From:    Sheridan Coulter <sheridan.coulter@oracle.com>
+Subject: [Fwd: Re: The worst news - Jeff Wain]
+
+
+
+
+
+
+Richard Moore wrote:
+> 
+> I'm sorry to have to give you the worst possible news: Jeff's gone.
+
+
+Shit, don't know what to say, I hadn't known him as long as most of you,
+but he was one of the nicest blokes I have ever met. Lost for words
+sorry.
+
+Richard thanks for keeping us informed that could not have been easy.
+
+Shez
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 11:40:59 +0100
+From:    Graham Carrick <gcarrick@ubiquity.net>
+Subject: Jeff
+
+My deepest condolences to Jeff's family and friends.
+
+Someone here wrote:
+
+"Ixion is more than just a mailing list, it's like a family. And today
+we lost a member of that family."
+
+I've been sitting here reading the digest with wet eyes and although it
+may seem silly to be affected by the death of someone that you never
+met, it's not silly. 
+As a relative newcomer to Ixion, I was unprepared for how much the news
+of Jeff's accident affected me. If you are like me then you will have
+spent much of the last week quietly nervous about his condition,
+anxiously reading each message to see how he was faring. But now he's
+gone and I'm really pissed off. 
+
+I'm so glad that Richard took the trouble to keep us all up to date, and
+especially grateful for him passing on the bad news, although that email
+must have been hell to write.
+
+If there's anything I can do, however small, let me know. And when the
+time comes, could somebody let us far-flung Ixies know how Jeff's family
+would like us to pay our respects (donations to charities, etc.)?
+
+Graham Carrick
+
+Please CC, I'm digesting.
+- - -- 
+ONEPOT. Four strokes and one bang - www.thumperclub.org.uk 
+- - ----------------------------------------------------------
+XBR500  -  GB500  -  XBR500/Squire outfit  -   Ikuzawa 600
+- - ----------------------------------------------------------
+Aiming for the Elefant Rally 2002, anyone else wanna come?
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 13:03:32 +0100
+From:    "James Dening" <james@dening.org>
+Subject: Jeff
+
+Bollocks. I was doing so fucking well. I'd read the whole
+digest and thought, well done J, you're doing well. And then
+sodding Flossie manages to reduce me to tears. Damn.
+
+I knew Jeff pretty well - from trackdays and racing usually. His
+gnome like, Gandhi-esque face has popped round the door of
+various garages in various race paddocks over the last three
+years. I remember particularly well an unusual act of generosity 
+involving Jeff buying a new part for a skint racer that enabled
+him to get out for the last race.
+
+A very nice bloke, trite though it sounds. And I will miss him at
+BHGP, or Cadwell, or the next time I would've seen him in 
+the bar.
+
+James.
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 13:09:10 +0100
+From:    iain.lowe@bt.com
+Subject: RE: Jeff
+
+I expect he'll find it quite funny though, all these rufty tufty bikers
+bubbling into their keyboards.
+
+<sniff>
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 13:29:01 +0100
+From:    Robert Cameron <robert@robertcameron.com>
+Subject: RE: Jeff
+
+Iain....
+
+I expect he'll find it quite funny though, all these rufty tufty bikers
+bubbling into their keyboards.
+
+=============================
+He's also probably quite enraged about Ian E taking him to work as well !!!!
+
+R.
+
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 13:35:52 +0100
+From:    Robert Cameron <robert@robertcameron.com>
+Subject: RE: Jeff
+
+James posted this.....
+
+I remember particularly well an unusual act of generosity 
+involving Jeff buying a new part for a skint racer that enabled
+him to get out for the last race.
+================================
+
+That just says it all really!!! 
+
+:-(
+
+Robert
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 13:43:12 +0100
+From:    Ian Ellison <Ian.Ellison@directmarketing.co.uk>
+Subject: RE: Jeff
+
+Orb:
+
+> 
+> 
+> Iain....
+> 
+> I expect he'll find it quite funny though, all these rufty 
+> tufty bikers
+> bubbling into their keyboards.
+> 
+> =============================
+> He's also probably quite enraged about Ian E taking him to 
+> work as well !!!!
+> 
+'SOK, he didn't come in, he just went for a wander round Cheltenham in the
+sun. He'll be boiling in that dayglo jacket...
+IanE
+
+
+**********************************************************************
+This email and any files transmitted with it are confidential and 
+intended solely for the use of the individual or entity to whom they   
+are addressed. If you have received this email in error please notify 
+the system manager at DMS on 01242 584175 or 
+administrator@directmarketing.co.uk.
+Visit our website at http://www.directmarketing.co.uk
+**********************************************************************
+
+_____________________________________________________________________
+This message has been checked for all known viruses by UUNET delivered 
+through the MessageLabs Virus Control Centre. For further information visit
+http://www.uk.uu.net/products/security/virus/
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 13:59:32 +0100
+From:    Adam Curtin at WatchMark <adam.curtin@watchmark.com>
+Subject: Re: Jeff
+
+James Dening wrote:
+> 
+> Bollocks. I was doing so fucking well. I'd read the whole
+> digest and thought, well done J, you're doing well. And then
+> sodding Flossie manages to reduce me to tears. Damn.
+
+You heartless bastard - marvin's "This space left unintentionally blank"
+did it for me. I'd recovered a bit before I got to sodding Flossie.
+Bugger :-(
+
+Thanks guys (genuinely)
+
+Adam
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 15:41:57 +0200
+From:    Jason Hearn <jason.hearn@vni-paris.fr>
+Subject: Re: Jeff
+
+On Tue, 03 Jul 2001, James Dening à ecrit:
+
+> years. I remember particularly well an unusual act of generosity
+> involving Jeff buying a new part for a skint racer that enabled
+> him to get out for the last race.
+
+He was just that kind of chap.
+
+He bought me a rear paddock stand for the racing MZ after the engine stand 
+that I had proved insufficient.
+
+- - -- 
+
+Cordialement,
+
+Jason Hearn
+
+- - ---------------------------------------------------------------------
+Jason E. Hearn                          Visual Numerics Inc
+Ingénieur Support Technique             Tour Europe
+                                        33 Place des Corolles
+Tel: +33 1 46 93 94 27                  92049 Paris La Défense Cedex
+Fax: +33 1 46 93 94 39                  France
+
+Visual Numerics Celebrates 30 Years As An Independent Software Vendor
+- - ---------------------------------------------------------------------
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 17:52:28 +0100
+From:    "Stuart Duckworth" <s_duckworth@cableinet.co.uk>
+Subject: RE: Jeff
+
+On 3 Jul 01, at 13:29, Robert Cameron wrote:
+
+> 
+> I expect he'll find it quite funny though, all these rufty tufty bikers
+> bubbling into their keyboards.
+> 
+> =============================
+> He's also probably quite enraged about Ian E taking him to work as well
+> !!!!
+> 
+
+This made me laugh out loud, which was just what I needed :-)
+
+Stuart D.
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 15:15:08 -0700
+From:    Mel Reed <mel_zzr@yahoo.com>
+Subject: Jeff
+
+The first Ixi I ever met was Jeff, shortly followed by Richard and
+marv. It was the day of the chicken foot in the egg marv if you
+remember. The first big Ixi event I went to was the off road karting
+organise by Jeff and Paul Yull. He has been a constant presence in my
+Ixion life.
+
+Jeff has slept on my floor, sofa, more times than I care to remember.
+He
+has been to every Ixi party I have organised. He has been on every Ixi 
+holiday I have organised. I have heard him sing hymns, pop songs, opera
+
+and nursery rhymes all loudly, accurately and early. I have ridden with
+
+him, laughed at him and his reflective bikeand with him, and been 
+comforted by him after crashing. He has soothed we when I get over 
+stressed organising things, encouraged me when down and made me laugh 
+riotously. He has spoken to me like a father, a brother, a friend.
+
+I never once failed to get a hug off him. He was rarely angry. He was
+fair minded, generous and warm.
+
+I remember crying with laughter when Jeff wore Flossie's hair like a
+wig in France.
+I remember Jeff walking hand in hand with Kai talking earnestly.
+I remember the feeling of family at the Barn House as we stayed with
+Jeff before Paul's funeral.
+I remember the warmth and hospitality Jeff and Linda showed Kai and
+myself and Floss at their new home.
+I remember Jeff baiting Jeremy in his lair early in the morning.
+I remember searing blindness the first time we saw the starship
+enterprise fully spammed up!
+I remember Jeff sailing past me at Cadwell, at full tilt boogie, big
+grin on face.
+I remember money being extracted with Jeff style meneace for the robot.
+Not so much menace more a certain knowledge that you would pay up.
+I remember marv and Jeff always turned up first for dinner.
+I remember the old man always liked to nap after reading the papers.
+I remember an erudite, intelligent, open minded man.
+I remember he was part of the great birthday frog conspiracy.
+
+I remember I loved him and still do.
+
+
+Mel
+
+__________________________________________________
+Do You Yahoo!?
+Get personalized email addresses from Yahoo! Mail
+http://personal.mail.yahoo.com/
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 16:32:37 -0700
+From:    Reed Kai <kai_lump@yahoo.com>
+Subject: Re: Jeff
+
+Mummy and Daddy told me about Jeff. I am sad because
+Jeff is dead. I liked Jeff a lot. I remember Jeff came
+on holiday with us. I was 3 the first time. He always
+reads me stories and talks and plays with me.
+
+I wish he wasn't dead then I could see him again.
+
+Kai Reed
+(as dictated to a softly sobbing mother)
+
+__________________________________________________
+Do You Yahoo!?
+Get personalized email addresses from Yahoo! Mail
+http://personal.mail.yahoo.com/
+
+
+
+- ------------------------------
+
+Date:    Wed, 04 Jul 2001 08:59:03 +0100
+From:    =?iso-8859-1?q?Waggers?= <steve_waghorn@yahoo.co.uk>
+Subject: RE: Jeff
+
+Just got round to catching up on the digests and still can't quite believe it.
+I only met Jeff a few times at a couple of different Cadwells.
+
+My deepest sympathies to Linda his wife and his two daughters.
+
+Richard, sympathies to you as well and Thanks for keeping us informed of events
+during what must have been a particularly difficult time for you.
+
+:-(
+
+Waggers.
+
+
+____________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.co.uk address at http://mail.yahoo.co.uk
+or your free @yahoo.ie address at http://mail.yahoo.ie
+
+
+
+- ------------------------------
+
+Date:    Wed, 04 Jul 2001 09:17:09 -0400
+From:    "Chettleburgh, John (J.)" <jchettle@ford.com>
+Subject: Jeff
+
+Being behind in my digests, it was a huge shock to hear of his passing via the 
+BHGP list yesterday.
+
+Along with many, I never got the chance to meet Jeff, although I was hoping to 
+on a number of occasions during this year. It's obvious from other posts that I
+'m a poorer person for not getting the opportunity to do so. 
+
+Please add my condolences to the many others expressed to his family and friend
+s - esp Richard for his difficult task of keeping us all informed, and Marvin a
+nd Pete.
+
+JC
+
+
+
+
+
+- ------------------------------
+
+Date:    Mon, 09 Jul 2001 19:06:30 +0100
+From:    "Jane Turner" <jane@oscarthecat.freeserve.co.uk>
+Subject: Jeff
+
+Just come back from the funeral. The sense of community and empathy from all
+the gathered Ixies made a big difference, far more than you'd expect just
+from 'people that you know from a mailing list'. I think Han's right and
+Ixion has got something a bit special.
+
+We first met Jeff four years ago, a couple of days after he'd posted to
+Ixion that he'd passed his bike test. He said we'd recognise him because
+he'd be "the one with the big silly grin". It was true that day and for most
+of the time we knew him. It very soon felt like I'd known him all my life
+instead of those few short years. A totally decent human being, warm,
+endearing, funny, charming and so enthusiastic about life it rubbed off on
+people around him and left them richer for it. There won't be another one
+like him. You couldn't help but love him - anything else would be like
+kicking a puppy. ;o)
+
+Bye Uncle Jeff. We'll miss you.
+
+Love
+Jane
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- ------------------------------
+
+Date:    Mon, 09 Jul 2001 23:47:45 +0100
+From:    "BRC" <jen@bikersrest.co.uk>
+Subject: Re: Jeff
+
+
+- - ----- Original Message -----
+From: Jane Turner <jane@oscarthecat.freeserve.co.uk>
+> Just come back from the funeral. The sense of community and empathy from
+all
+> the gathered Ixies made a big difference, far more than you'd expect just
+> from 'people that you know from a mailing list'. I think Han's right and
+> Ixion has got something a bit special.
+
+I think you may be right there.  I met some very nice people today and
+yesterday, and felt very privileged to meet you.  I'm sorry it was under sad
+circumstances, and I hope we can meet again under better ones.  I hope
+no-one minded my being at the funeral today, although I only knew Jeff by
+sight, any  loss of a biker hits home.
+
+Good to meet you all, and here's to better times.
+
+- - --
+                                   Jen
+                              YZF750R (twins)
+                        BONY#2 (KoTL) ICQ#99631946
+             www.bikersrest.co.uk   Harrogate   www.iam.org.uk
+                     *Does my bum look fast on this?*
+
+
+
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 11:49:58 +0100
+From:    Paul McMonnies <paul@makk.fsnet.co.uk>
+Subject: Jeff Wain
+
+I have a very good friend, the closest thing I have to a brother, who
+after a serious car accident spent several weeks unconscious, attached
+to machines which breathed for him and fed him.
+
+I remember visiting him every day and listing to the doctors telling
+his family and I that he probably wouldn't make it through the night.
+
+I remember the feelings of uselessness and anger as I watched him lie
+there. But God obviously wasn't ready for him then and he eventually pulled thr
+ough.
+
+I am eternally grateful for his recovery but the feelings I had over
+that period of time give me some small measure of the pain Jeff's
+friends and family must be suffering now.
+
+I never met Jeff, yet, as others have already said, I feel a genuine
+and deep feeling of loss today.
+
+My condolences to all who knew and cared for him.
+
+Regards
+
+Makk
+
+mailto:paul@makk.fsnet.co.uk
+
+
+
+
+- ------------------------------
+
+Date:    Wed, 04 Jul 2001 11:38:21 +0100
+From:    paul.milton@philips.com
+Subject: Jeff Wain
+
+Damn, a bad week to get caught behind on the digests.
+
+Like many people out there, I never had the pleasure [1] of meeting Jeff
+but I am surprised by the effect it can have to hear this news. The
+comment about Ixion being a family has never been confirmed quite as
+strongly as it has been since the tragic news.
+
+There's nothing I can say that hasn't already been said but it is a tribute
+to Ixion that, even though we can be the biggest bunch of argumentative,
+provocative old gits, when the situation warrants it, Ixion is one of the
+closest groups of people that I've had the pleasure of being involved
+with.
+
+My condolences to Jeff's family and friends.
+
+[1] As I'm sure it would have been from the comments of those who
+knew him.
+
+Paul Milton        KR1            CBR900RR
+ Paul.Milton@philips.com
+TSTF #2         OT #11        Mag #112754
+No stupid comments today.
+
+
+
+
+
+- ------------------------------
+
+Date:    Wed, 04 Jul 2001 17:37:53 +0100
+From:    <Jeremy.Norris@vodafone.co.uk>
+Subject: Jeff Wain
+
+Hi all,
+
+Word cannot describe my sense of loss of the passing of Jeff. 
+I knew Jeff for about three years ever the gentleman and the character Jeff,
+was without doubt the most friendly and closest to his email personality I'm
+gutted shocked at loss to say anything else. I pass on my deapset simpathies
+to his relatives and wife.
+
+Rest in peace Jeff!! Why is that god wants the good ones first.... Ever your
+friend.
+
+JeZ 
+
+********************************************
+Jeremy Norris
+Senior UICC-USIM/SIM Engineer
+Technology Evaluation & SIMs
+Core Network Development-Technology
+Vodafone UK Ltd
+The Courtyard, 2-4 London Road
+Newbury, Berks
+RG14 1JX
+Tel    +44 (0)1635 673395
+Fax    +44 (0)1635 676147
+Mobile +44 (0)7979 540129
+********************************************
+
+ 
+
+
+
+- ------------------------------
+
+Date:    Thu, 05 Jul 2001 00:33:44 +0100
+From:    Matt <matt@mdsmccl.demon.co.uk>
+Subject: Re: Jeff Wain
+
+In article <1763F57BB8BAD211B06500A0C9E5D92006CB4B9C@barking.vfl.vodafon
+e>, Jeremy.Norris@vodafone.co.uk writes
+>Rest in peace Jeff!! Why is that god wants the good ones first.... Ever your
+>friend.
+
+My Mum always says 'only the good die young', in fact I seem to remember
+my Dad repeating it, under his breath, when Mum's Mum died at the ripe
+old age of 89.
+
+I've always believed it and it does seem to be true!
+
+I'm gonna live to be 125, incontinent and leaning on a zimmer frame :-((
+
+- - -- 
+Matt - Dorset.
+OT #4. TSTF #1. AWA #3. TGMCC #8. UKMC #9. GHPOTHUF #2. BOF #38.
+It only takes two-strokes to get me excited (or a threesome :-))
+
+
+
+- ------------------------------
+
+Date:    Thu, 05 Jul 2001 17:35:23 +0100
+From:    "Darren Patel" <d.patel@bpp-tech.com>
+Subject: Re: Jeff Wain
+
+I wish I had met Jeff, he sounds like a gem. I would like to send my sincere
+consolations to his friends and family.
+
+The photos are stunning; I expect that they'll be treasured by many.
+
+With deep sympathy,
+Darren
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 10 Jul 2001 16:13:16 +0100
+From:    Simon Crouch <Simon.Crouch@william-reed.co.uk>
+Subject: Jeff Wain
+
+What to say?
+
+I've been thinking a lot since the news of Jeff's death.  About Jeff, about
+life, about death, about my attitude to riding bikes, and whether I want to
+carry on doing it.
+
+I first met Jeff at Hardraw I think, on the first Absent Friends weekend.  I
+met him on numerous occasions at subsequent Ixion events, including
+supporting the efforts of the Aardvarks at Zolder.  Maintaining a dignified
+distance from the "Horseplay" at Bar Otto after the racing was over.
+
+The last event was the not TT 2001, for Keith's 40th birthday, and McFrames
+stag lap.  I think an abiding memory will be an uncharacterstically well
+oiled Wain meeting Paul Dunderdale in the pub at Ballaugh, grinning
+cheerfully, and slurring, "Ah, you're, erm, Paul, erm, Dunderhead or
+something".
+
+I last saw Jeff when we parted company just outside of Lancaster on the way
+back from Heysham.  The original plan was that we were going to ride over
+the moors together, so that I could meet an old college friend in Bradford.
+The weather was so horrible I decided to head straight home down the M6.  I
+turned right, and saw the dayglo jacket disappear into the pennine gloom.
+
+Someone has said that nobody really dies until all the things that they set
+in motion stop.  All the time that the clock they wound continues to tick,
+their influence ticks on with it.  Having sat in the church in Whixley,
+seeing all Jeff's friends and former work colleagues, and hearing about his
+lifetime of achievements, I think it will be a very long time, if ever,
+before Jeff Wain really dies.
+
+I am proud that I can call him my friend.
+
+Simon Crouch [fizzyorange]
+
+______________________________________________________________________
+William Reed Publishing Ltd is the leading information source for the 
+food and drink industry. For more information on the companys
+magazines, web sites, directories, events, exhibitions and databases
+go to: www.william-reed.co.uk
+
+This e-mail and any attachments are strictly confidential and for the
+intended addressee(s) only. If you have received it in error you must
+not disclose, copy, distribute or otherwise act on its contents. Please
+destroy or delete immediately all received copies of the e-mail and any
+attachments, whether stored electronically, physically or otherwise and
+notify the sender as soon as possible on 01293 613400.
+
+This message has been checked for all known viruses by the 
+MessageLabs Virus Scanning Service. For further information visit
+http://www.messagelabs.com/stats.asp
+
+
+
+- ------------------------------
+
+Date:    Tue, 10 Jul 2001 16:13:16 +0100
+From:    Simon Crouch <Simon.Crouch@william-reed.co.uk>
+Subject: Jeff Wain
+
+What to say?
+
+I've been thinking a lot since the news of Jeff's death.  About Jeff, about
+life, about death, about my attitude to riding bikes, and whether I want to
+carry on doing it.
+
+I first met Jeff at Hardraw I think, on the first Absent Friends weekend.  I
+met him on numerous occasions at subsequent Ixion events, including
+supporting the efforts of the Aardvarks at Zolder.  Maintaining a dignified
+distance from the "Horseplay" at Bar Otto after the racing was over.
+
+The last event was the not TT 2001, for Keith's 40th birthday, and McFrames
+stag lap.  I think an abiding memory will be an uncharacterstically well
+oiled Wain meeting Paul Dunderdale in the pub at Ballaugh, grinning
+cheerfully, and slurring, "Ah, you're, erm, Paul, erm, Dunderhead or
+something".
+
+I last saw Jeff when we parted company just outside of Lancaster on the way
+back from Heysham.  The original plan was that we were going to ride over
+the moors together, so that I could meet an old college friend in Bradford.
+The weather was so horrible I decided to head straight home down the M6.  I
+turned right, and saw the dayglo jacket disappear into the pennine gloom.
+
+Someone has said that nobody really dies until all the things that they set
+in motion stop.  All the time that the clock they wound continues to tick,
+their influence ticks on with it.  Having sat in the church in Whixley,
+seeing all Jeff's friends and former work colleagues, and hearing about his
+lifetime of achievements, I think it will be a very long time, if ever,
+before Jeff Wain really dies.
+
+I am proud that I can call him my friend.
+
+Simon Crouch [fizzyorange]
+
+______________________________________________________________________
+William Reed Publishing Ltd is the leading information source for the 
+food and drink industry. For more information on the companys
+magazines, web sites, directories, events, exhibitions and databases
+go to: www.william-reed.co.uk
+
+This e-mail and any attachments are strictly confidential and for the
+intended addressee(s) only. If you have received it in error you must
+not disclose, copy, distribute or otherwise act on its contents. Please
+destroy or delete immediately all received copies of the e-mail and any
+attachments, whether stored electronically, physically or otherwise and
+notify the sender as soon as possible on 01293 613400.
+
+This message has been checked for all known viruses by the 
+MessageLabs Virus Scanning Service. For further information visit
+http://www.messagelabs.com/stats.asp
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 11:51:18
+From:    "Simon Morris" <morris_simes@hotmail.com>
+Subject: Jeff RIP
+
+
+I can only echo everybody else's thoughts on the terrible news - I only met 
+Jeff a couple of times at Sherburn and of course knew him via Ixion. It 
+seems really strange sat here in the office less than 100 yards from the 
+Infirmary in Leeds.
+
+
+My condolences to his loved ones.
+
+Simon.
+
+
+
+
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 08:50:37 -0500
+From:    "Rankin, Gene" <Gene.Rankin@courts.state.wi.us>
+Subject: Jeff RIP
+
+We three met Jeff at Sherburn last September, after 'meeting' on Ixion for
+some years.  Kitty & Abigail join me in expressing our shock at Jeff's death
+and our deepest sympathies to Linda.  We will be with you in spirit on
+Friday and at Absent Friends.
+
+- - -Gene, Kitty & Abigail Rankin
+Madison, Wisconsin  USA
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 13:26:35 +0100
+From:    Matt <matt@mdsmccl.demon.co.uk>
+Subject: Re: Photos of Jeff
+
+In article <010c01c10347$0e9fce80$7505ff3e@beavervalley.co.uk>, Ian
+Ellison <ian.ellison@ntlworld.com> writes
+>supply. The only photo I have of Jeff on the IoM that I can find is a
+>distant shot of his back, lined up at Douglas on the prom with everyone else
+>while Matt has a piss on to the beach... typical!
+
+You must be mistaken, I don't ever get my trunk out in public 'cos it's
+so difficult to tuck it back into my sock.
+
+Never been drunk in Douglas and also had the missus with me to keep me
+under control so it can't have been me - you'd better send me a copy!
+
+I've some video footage of Jeff in the pits at one of the Cadwell Park
+do's - he's quite likely on the track bits as well so I may actually
+have some of him doing more than his usual shamble ;-)
+
+I was sad when I heard he'd bashed himself up badly but when it ends in
+death it's too late to be sad - cheer up lads, save it for the funeral! 
+
+- - -- 
+Matt - Dorset.
+OT #4. TSTF #1. AWA #3. TGMCC #8. UKMC #9. GHPOTHUF #2. BOF #38.
+It only takes two-strokes to get me excited (or a threesome :-))
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 15:01:04 +0100
+From:    "Mike Howe" <mike.howe@bikerheaven.demon.co.uk>
+Subject: RIP...
+
+Jeff's departure sadly brings up the total of bike 
+related deaths to 3 in the last 2 weeks for me, none 
+of which eases any pain and all of which fill me with 
+a very large void, not because I knew Jeff that well but 
+because of the flood of emotions and the accompanying 
+feelings of irreversible loss that one feels at times 
+like these.
+
+Richard/Marvin/Pete(?) , please pass on our condolences
+to his wife and family. My thoughts are with you three
+as well for dealing so thoughtfully and helpfully with 
+all at this time...
+
+RIP, including those not mentioned today...
+
+Needless to say, if there is anything that needs 
+organising, please contact me as I'm off work
+from now until towards the end of the month.
+
+MikeDaBike & Amanda
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 15:01:49 +0100
+From:    =?iso-8859-1?q?Steven=20Gregg?= <hmvgasman@yahoo.co.uk>
+Subject: RIP Geoff
+
+RIP Geoff, I never met you but enjoyed your postings.
+It's hard to understand why these things happen.
+
+Sincere condolences to Geoffs family and everyone who
+knew him.
+
+Steevie
+
+
+____________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.co.uk address at http://mail.yahoo.co.uk
+or your free @yahoo.ie address at http://mail.yahoo.ie
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 16:36:35 +0100
+From:    =?iso-8859-1?q?Michael=20B?= <votryzf@yahoo.com>
+Subject: Condolences
+
+To all Jeff's family and friends,
+
+Please accept my sincerest condolences. Like many
+others I only knew Jeff from the past 2-3 years
+on the list, but his warmth and generosity was
+obvious for all to see... RIP.
+
+MWB.
+Perly-Certoux
+Genève, Suisse.
+
+
+
+____________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.co.uk address at http://mail.yahoo.co.uk
+or your free @yahoo.ie address at http://mail.yahoo.ie
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 20:05:33 -0400
+From:    Gary? <slade@sprynet.com>
+Subject: Condolences
+
+I look in on Ixion from time to time, check on the old and new names,
+see what everyone is up to. My timing leaves a lot to be desired
+,though. Last time I caught the news of Adam's get off, this time the
+unfortunate news of Jeff Wain. A faceless name for me but a name
+synonymous with Ixion, in life he helped form the character of the list
+,now he'll continue with the mythology.
+my condolences
+
+Gary
+Philadelphia
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 20:35:20 +0100
+From:    "David Lippett" <Dave.Lippett@btinternet.com>
+Subject: Celebration of Jeffs Life....
+
+
+I've already done the grizzling thing, and the walking around alone in the
+garden feeling empty bit....
+
+Godspeed Jeff, one of nature's true gentleman, always smiling and making
+other people smile...
+
+The last words I ever spoke to Jeff were taking the piss out of his dayglo
+jacket at Blyton a few weeks back...In typical style Jeff laughed it all
+off,  and rode off into the sunset with a grin on his face....So that's how
+I'm thinking of him now....Riding off into the sunset grinning, and most
+likely touring through the mountains somewhere with Paul Y....
+
+I'll be celebrating Jeff's life by immersing myself totally in enjoying
+myself riding and racing my bike over the next few days...It's what he'd
+expect and bugger me, I'm gonna go do it in style....;-)
+
+My heart goes out to Jeff's family naturally, but also heartfelt sympathies
+particularly to marvin who has lost two of his greatest friends in tragic
+circumstances....marvin I know Jeff would just want you to be marvin and all
+that that entails, like getting deliriously drunk, telling crap jokes badly,
+embarrasing folk, and stuff like that....
+
+Jeff wouldn't want us to be maudlin, so whilst I feel the same painful loss
+as many of you, I'd like to suggest that you think of all the fun times
+you've had with Jeff around, and enjoy those pleasant memories as something
+that can never be removed.
+
+RIP Jeff and carry on smiling wherever you are.....
+
+Dave L.
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 23:28:48 +0100
+From:    "Richard Seabert" <seabert@intonet.co.uk>
+Subject: RE: Celebration of Jeffs Life....
+
+From: David Lippett
+> I'll be celebrating Jeff's life by immersing myself totally
+> in enjoying
+> myself riding and racing my bike over the next few
+> days...It's what he'd
+> expect and bugger me, I'm gonna go do it in style....;-)
+
+> RIP Jeff and carry on smiling wherever you are.....
+
+Whilst sitting here trying to think of something to say I read this and
+it's exactly where I had ended up. Thanks Dave :-)
+
+Rich
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 22:35:11 +0100
+From:    Ged <ged@gmartin.demon.co.uk>
+Subject: A gentlemans gentleman....
+
+So, that's it then.
+
+I was reading the updates from Richard and was
+beginning to think that things may be looking up.
+Obviously, they took a turn for the worse and
+Jeffs not here any more.
+
+Among other things, I remember him at MadTrax with
+that bloody big Audi of his - screaming away up
+that single track road. The other thing I remember
+is that he always seemed to have a smile on his
+face and it wasn't like he was smiling at anything
+in particular, he just liked smiling.
+
+Over the years, I've seen posts on the list about
+his various incidents and thought "The old bugger
+will give it up now", but he never did. He always
+came back.
+
+He won't be this time and he'll be missed by lots
+of people - not just his family.
+
+Condolences to his family, his friends and
+everyone else whose lives were touched by Jeff.
+
+And to Jeff, keep smiling mate.
+
+Ged
+
+
+
+- ------------------------------
+
+Date:    Tue, 03 Jul 2001 15:16:55 -0700
+From:    Mel Reed <mel_zzr@yahoo.com>
+Subject: Please
+
+I hate feeling like this. First Richard and now Jeff. Please could the
+rest of you keep the family from decreasing in size any further.
+
+Thank you
+
+Mel
+
+__________________________________________________
+Do You Yahoo!?
+Get personalized email addresses from Yahoo! Mail
+http://personal.mail.yahoo.com/
+
+
+
+- ------------------------------
+
+Date:    Mon, 09 Jul 2001 15:33:01 +0100
+From:    "Richard Moore" <richard@oscarthecat.freeserve.co.uk>
+Subject: Fw: Climbing to the tops of things
+
+
+- - ----- Original Message -----
+From: Richard Moore <richard@oscarthecat.freeserve.co.uk>
+To: marvin <marvin@marvin.co.uk>
+Cc: <ixion@nottingham.ac.uk>
+Sent: Wednesday, July 04, 2001 6:11 PM
+Subject: Climbing to the tops of things
+
+
+> I've read everything that's been written about Jeff in the last couple of
+> days (is it really that short a time?), and have cried, laughed, and
+wished
+> I could have been so expressive. I can't add to that; I am sick that he
+has
+> died and will really miss him.
+>
+> Strangely enough I'd been thinking for some time about Paul Yull, and how
+I
+> never took the trouble to get to know him properly before he died. Jane
+and
+> I had visited Jeff quite a few times recently, the weekly Sherburn meets
+had
+> kicked off again, he'd been at my birthday party in April and used to drop
+> by and see us, and I determined that I wasn't going to make the same
+mistake
+> again. But after four years of acquaintance I'd really only just
+started...
+>
+> When marvin rang two Sundays ago to tell me that Jeff had crashed, I was
+> out in the sunny back yard, painting the doors of my new shed [1]
+> purple, daydreaming about the three of them in Norway and deciding that I
+> really should arrange my life better so that I could have been there with
+> them, while wondering whether anyone would really want a miserable old git
+> like me along. The previous night, Jane being away, I'd watched Jazz on
+the
+> TV and drunk the 1989 Chateau Maucaillou that had surprisingly appeared
+> among the usual party wine at my birthday do, in April, courtesy of Mr
+Wain.
+> Not that I know a lot about wine, but it was jolly nice.
+>
+> The first occasion I saw Jeff was on York racecourse at a vehicle show,
+> Spring 1997. The last time I saw Jeff was at Sherburn, the Thursday
+> before the week he and marvin left for Norway. He'd come back from the IoM
+> and we'd done the Ixion Car Club thing again, because Jane's wrist was
+still
+> recovering and Jeff's VFR was being refettled after its mishap. The previo
+us
+> week he'd been in his shorts; I remember cringing as he fingered the nuts
+> whose contours you could see beneath the skin of his right ankle. The
+> doctors told him that if he crashed with that leg again it wouldn't break,
+> it'd bend.
+>
+> At least, I think it was then. I seem to have rolled up all the recent
+times
+> I'd seen Jeff into one memory. He sat in our yard and told me how he
+started
+> off as an engineer, before he ever got into the business side of things.
+On
+> several recent occasions Jane and I had reclined in his conservatory, with
+> that wonderful view across the Vale of York, talked about this and that,
+> drunk tea from proper cups and eaten those little cakes that Jane will
+know
+> the name of: square ones that come in pink, yellow and brown, six in a
+box.
+> The same conservatory where marvin and we sat with Linda Sunday last,
+> talking about Jeff as he lay in the hospital dreaming of Norway.
+>
+> And Blyton. That's where I took my last photo with Jeff in it :-(
+>
+> It wasn't meant to be like this: you lot were supposed to be coming up en
+> masse for his 60th birthday party, next February :-(
+>
+> Jeff was never going to go with his slippers on; he was always climbing to
+> the tops of things, be it Nippondenso UK or the masts of tall ships. He
+used
+> to take the mick when I pussyfooted my bike up that deep gravelled
+nightmare
+> of a drive at Bramham; then every other week he'd have dropped one bike or
+> the other onto it again ;-) Evidently Jeff had a problem with gravel, so
+he
+> moved from a 300-year-old house with deep, shifting pebbles, to a new one
+> with compacted, clinging stones that gripped your tyres. Or it could just
+be
+> that he'd got fed up with putting in windows and had squirted the cavities
+> of the Barn House so full with foam filler that it was coming out through
+> the cracks, and he couldn't get any more in. I'm sure he appreciated the
+> surrealism when we took his old fridge-freezer back over to York in the
+back
+> of a Reliant, and knew that this was a necessary thing to do [2]. Or at
+> least, that Ithought it was; with a twinkle.
+>
+> He'd never have seen it that way, but Jeff set standards. If I felt I
+could
+> half match up to any of them I'd think I'd done something well. Hope he's
+> not reading this <Jeff walks in, grins 'Gleetings', whole of Ixion falls
+> into embarrassed silence, shuffling feet, clearing throats, tapping
+fingers,
+> looking out of window, humming, etc.>
+>
+> Above all, he was the man who made me proud to be a Liberian.
+>
+> Bye Jeff
+>
+> Take it easy
+>
+> Richard
+>
+> *****************************************************************
+> Gerald the Hamster
+> Harley Davidson 1200 Sportster * BSA A65 Thunderbolt
+> Grand Archduke of Liberia, RTB, DFC and Bar
+> *****************************************************************
+>
+>
+>
+> [1] The vast barn-like shed that would not have been possible without
+Jeff's
+> Ninja Battle Saw, which I was going to return when he got back.
+> [2] Damn. I've still got his tie-downs, as well
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+
+
+
+- ------------------------------
+
+Date:    Mon, 09 Jul 2001 16:14:04 +0100
+From:    "Birring, Steven G" <sgb23138@GlaxoWellcome.co.uk>
+Subject: Memories of Jeff
+
+Mal,
+
+I think your idea is great.
+
+The first time I met Jeff was at the second Ixi Cadwell trackday, both of us
+were in the slow group.
+I was on my shiny new RVF400 and he was on his top-boxed and panniered
+CB400.
+
+After that I met Jeff at a number of the London meets.  He always smiled and
+greeted me like an old friend, 
+even though I'd only met him in the flesh a couple of times.  
+
+I particularly remember a long walk to a tube station with him after an Ally
+Pally meet in 2000.  
+He was always interested in what you were saying and it was great listening
+to his experiences 
+and opinions.
+
+I'm glad I was lucky enough to meet Jeff.  I'll miss him.
+
+Steven
+
+
+
+
+- ------------------------------
+
+Date:    Mon, 09 Jul 2001 19:58:21 +0300
+From:    Iain.Crombie@nokia.com
+Subject: Memories of Jeff
+
+My enduring memory of Jeff is from some point on our 1999 Romania 
+trip to see the total eclipse.  Somewhere in southern France I 
+think.  
+
+I was following Jeff down a long, twisty, well surfaced descent.  
+Jeff riding his absurdly overloaded GSX1100F complete with 
+panniers, top box, flashing orange light on pole, huge George 
+cross number plate, BFO chain and a rapidly failing exhaust system.  
+Reflective tape stuck *everywhere*.
+
+Almost every bend the wallowing GSX's fairing slapped into the tarmac 
+(followed shortly after by the centre and/or side stand) producing a 
+great graunching noise and a carpet of sparks before rebounding, 
+sending the bike into further spastic shudders.  
+
+Repeat for several miles :-)
+
+Goodbye Ghandi and thanks for all the tent pegs.
+
+Iain.
+
+
+- ------------------------------
+
+Date:    Mon, 09 Jul 2001 17:17:43 +0100
+From:    Steve Bennett <S.Bennett@ftel.co.uk>
+Subject: Re:Jeffs Ixion Digest
+
+Nice one Mal.
+
+I met Jeff through the Robot Wars group and had the pleasure of actually
+meeting him face to face at many a buildfest and at Cadwell. He was the
+most genuine person I think I ever met and I was deeply saddenly to hear
+of his passing, everything he did seemed to be to help someone else, bye
+Jeff.
+
+- - --
+Steve
+
+
+
+
+- ------------------------------
+
+Date:    Tue, 31 Jul 2001 02:18:41 +0100
+From:    "Flossie the Sheep" <flossie@roadie.co.uk>
+Subject: ....sadness
+
+...not knowing why I write this, not knowing who it goes to, but feeling that I
+ 
+must write something now, this is for Jeff, Richard, Paul, and for all those 
+others who have made the world and my life a far better place with their 
+presence, and a smaller place with their passing. To Garry, for Linda, for 
+Sheridan, everything that can be said is just hollow and trite, but it is felt 
+- - - 
+We will always miss them, We will always remember them.
+
+
+ With thanks to all those who have taken the time to have let me know 
+tonight, my thanks, without you the shock would have been even worse later.
+
+
+ I still have trouble getting over the shock of Paul, and hearing of two more I
+ 
+knew in one night is very hard, I hope those who kindly query my absence 
+from the list will understand the underlying reason why, this has brought it to
+ 
+the surface (correspondence not entered into, sorry)
+
+.sig resurrected
+although at the moment it feels more like two "projects for sale" notices, 
+sorry.
+
+
+ Jeff: I will always remember riding across the Pennines into Scotland with 
+you last year -  the geordie petrol station attendant on the A68 who had a 
+huge fit at you having trouble with his pump-handle whilst still in the 
+saddle...the sun breaking through the clouds over open roads....the ride 
+down off the hills - and so many, many, more. The warmth of your and 
+Linda's hospitality even when utterly drenched by monsoons on the A1 
+combined with leaking boots and failed leathers; the Barn House...
+ Richard: So little time, so much shared.
+
+
+sorry, I'm not good at dealing with this sort of thing, everytime I look over t
+he 
+message I just rewrite the good bits and leave the cr*p bits....Nos Da, and 
+may your fleeces be ever fluffy...
+
+
+- - -- 
+Flossie the fluffy sheep         (that lighting idiot)
+Suzuki 600 Loud Shopping Trolley  Ducati 900ss Loud Toy
+... After we pull the pin, Mr. Grenade is NOT our friend!
+
+
+
+
+- ------------------------------
+
+End of JeffWain Digest [Volume 1 Issue 14]
+******************************************
+
+
+
+------- End of Forwarded Message
+
+
+
