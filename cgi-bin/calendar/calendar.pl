@@ -11,13 +11,13 @@ function viewday (yr,mm,dd) {
 <BODY BGCOLOR="#FFFFFF">
 <TABLE BORDER=0 WIDTH=100%>
 <TR>
-<TD ALIGN=LEFT><FONT SIZE=7 COLOR="#008000"><A HREF="http://www.ixion.org.uk/"><IMG SRC="/images/iximetals.gif" WIDTH=118 HEIGHT=40 ALT="Ixion"></A> Events Calendar</FONT></TD>
+<TD ALIGN=LEFT><FONT SIZE=7 COLOR="#008000"><A HREF="/"><IMG SRC="/images/iximetals.gif" WIDTH=118 HEIGHT=40 ALT="Ixion"></A> Events Calendar</FONT></TD>
 <TD ALIGN=RIGHT><FONT SIZE=7 COLOR="#008000">August&nbsp;2008</FONT></TD>
 </TR>
 </TABLE>
 <TABLE BORDER=0 WIDTH=100%>
 <TR>
-<TD WIDTH=20% ALIGN=LEFT><A HREF="http://www.ixion.org.uk/calendar/">Front Page</A></TD>
+<TD WIDTH=20% ALIGN=LEFT><A HREF="/calendar/">Front Page</A></TD>
 <TD WIDTH=60% ALIGN=CENTER><form action='/cgi-bin/calendar/calendar.pl' method=post><input type='hidden' name='config' value='calendar.cfg'><select name='Month' size=1><option value='1' >January</option><option value='2' >February</option><option value='3' >March</option><option value='4' >April</option><option value='5' >May</option><option value='6' >June</option><option value='7' >July</option><option value='8'  SELECTED >August</option><option value='9' >September</option><option value='10' >October</option><option value='11' >November</option><option value='12' >December</option></select><select name='Year' size=1><option value='2007' >2007
 <option value='2008'  SELECTED >2008
 <option value='2009' >2009
